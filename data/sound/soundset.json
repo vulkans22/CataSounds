@@ -1,0 +1,868 @@
+{
+    "sound_effects" : [
+        {
+            "id" : "menu_move",
+            "volume" : 100,
+            "file" : "menu/menu_selection_click.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "shot",
+            "file" : "guns/shot_00.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "22",
+            "file" : "guns/22_lr.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "9mm",
+            "file" : "guns/9mm.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "38",
+            "file" : "guns/38_special.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "40",
+            "file" : "guns/40sw.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "44",
+            "file" : "guns/44magnum.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "variant" : "45",
+            "volume" : 100,
+            "file" : "guns/45_acp.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "454",
+            "file" : "guns/454_Casull.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "500",
+            "file" : "guns/500_Magnum.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "57",
+            "file" : "guns/57mm.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "46",
+            "file" : "guns/46mm.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "762",
+            "file" : "guns/762_m43.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "223",
+            "file" : "guns/223.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "270",
+            "file" : "guns/270.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "3006",
+            "file" : "guns/3006.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "308",
+            "file" : "guns/308.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "40mm",
+            "file" : "guns/40mm_concussive.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "66mm",
+            "file" : "guns/66mm_HEAT.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "120mm",
+            "file" : "guns/120mm_HEAT.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "12mm",
+            "file" : "guns/12mm.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "8x40mm",
+            "file" : "guns/8mm_caseless.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "84x246mm",
+            "file" : "guns/84x246mm_he.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "RPG-7",
+            "file" : "guns/RPG-7_ammo.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m235",
+            "file" : "guns/m235tpa.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "5x50",
+            "file" : "guns/5x50dart.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "50",
+            "file" : "guns/50bmg.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "signal_flare",
+            "file" : "guns/signal_flare.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "20x66mm",
+            "file" : "guns/20x66_shot.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "700nx",
+            "file" : "guns/700nx.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "300",
+            "file" : "guns/300_winmag.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "32",
+            "file" : "guns/32_acp.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "762x25",
+            "file" : "guns/762_25.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "762R",
+            "file" : "guns/762_54R.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "ammo_flintlock",
+            "file" : "guns/flintlock_ammo.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "36paper",
+            "file" : "guns/36navy.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "44paper",
+            "file" : "guns/44army.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "gasoline",
+            "file" : "guns/napalm.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "arrow",
+            "file" : "guns/arrow1.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "bolt",
+            "file" : "guns/bolt1.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "UPS",
+            "file" : "guns/laser_pack.ogg"
+        },
+        {
+            "id" : "melee_hit",
+            "volume" : 100,
+            "file" : "melee/impact.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "katana",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "lajatang",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "bio_blade_weapon",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "machete",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "firemachete_off",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "firemachete_on",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diamond_knife",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diamond_machete",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diamond_katana",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "wakizashi",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "firekatana_off",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "firekatana_on",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "broadsword",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "broadfire_off",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "broadfire_on",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "nodachi",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "kukri",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diamond_kukri",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "survivor_machete",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diamond_rapier",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diamond_broadsword",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diamond_wakizashi",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diamond_nodachi",
+            "volume" : 100,
+            "file" : "melee/edged.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "hammer_sledge",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "mjolnir",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "bokken",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "cudgel",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "q_staff",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "i_staff",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "warhammer",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "homewrecker",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "morningstar",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "mace",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "halligan",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "zweihander",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "zweifire_off",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "zweifire_on",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "ax",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "fire_ax",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "battleaxe",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "scythe_war",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "shock_staff",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diamond_zweihander",
+            "volume" : 100,
+            "file" : "melee/blunt.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "knife_combat",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "sword_nail",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "sword_wood",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "sword_crude",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "sword_forged",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "nailboard",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "nailbat",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "bwirebat",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "bowling_axe",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "pipe",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "bat",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "bat_metal",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "spear_wood",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "spear_forked",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "spear_steel",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "spear_survivor",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "baton-extended",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "hockey_stick",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "tonfa",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "tonfa_wood",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "PR24-extended",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "glass_macuahuitl",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "hammer",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "crowbar",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "makeshift_crowbar",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "shovel",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "tanto",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "kris",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "spear_knife",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "rapier",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "pike",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "makeshift_machete",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "shishkebab_off",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "shishkebab_on",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "makeshift_halberd",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "knife_trench",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "knife_hunting",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "knife_rambo",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "knife_rm42",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "scythe",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "sickle",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "diveknife",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "lobotomizer",
+            "volume" : 100,
+            "file" : "melee/stab.ogg"
+        },
+        {
+            "id" : "footstep",
+            "volume" : 10,
+            "file" : "env/step1.ogg"
+        },
+        {
+            "id" : "open_door",
+            "volume" : 75,
+            "file" : "env/dooropen1.ogg"
+        },
+        {
+            "id" : "close_door",
+            "volume" : 75,
+            "file" : "env/doorclose1.ogg"
+        },
+        {
+            "id" : "open_door",
+						"variant" : "t_door_metal_c",
+            "volume" : 55,
+            "file" : "env/mdooropen1.ogg"
+        },
+        {
+            "id" : "close_door",
+						"variant" : "t_door_metal_o",
+            "volume" : 55,
+            "file" : "env/mdoorclose1.ogg"
+        },
+        {
+            "id" : "open_door",
+						"variant" : "t_window_domestic",
+            "volume" : 75,
+            "file" : "env/windowopen1.ogg"
+        },
+        {
+            "id" : "close_door",
+						"variant" : "t_window_open",
+            "volume" : 75,
+            "file" : "env/windowclose1.ogg"
+        },
+        {
+            "id" : "close_door",
+						"variant" : "t_window_domestic",
+            "volume" : 65,
+            "file" : "env/curtainclose1.ogg"
+        },
+        {
+            "id" : "open_door",
+						"variant" : "t_curtains",
+            "volume" : 65,
+            "file" : "env/curtainclose1.ogg"
+        },
+        {
+            "id" : "bash",
+            "volume" : 55,
+            "file" : "env/bash1.ogg"
+        },
+        {
+            "id" : "smash",
+						"variant" : "wall",
+            "volume" : 55,
+            "file" : "env/smashwall1.ogg"
+        },
+        {
+            "id" : "smash",
+						"variant" : "door",
+            "volume" : 55,
+            "file" : "env/smashdoor1.ogg"
+        },
+        {
+            "id" : "smash",
+						"variant" : "door_boarded",
+            "volume" : 55,
+            "file" : "env/smashdoor1.ogg"
+        },
+        {
+            "id" : "smash",
+						"variant" : "glass",
+            "volume" : 55,
+            "file" : "env/smashglass1.ogg"
+        },
+        {
+            "id" : "explosion",
+						"variant" : "default",
+            "volume" : 65,
+            "file" : "env/explosion1.ogg"
+        },
+        {
+            "id" : "explosion",
+						"variant" : "small",
+            "volume" : 65,
+            "file" : "env/explosion1.ogg"
+        },
+        {
+            "id" : "explosion",
+						"variant" : "huge",
+            "volume" : 90,
+            "file" : "env/explosion2.ogg"
+        }
+    ]
+}
