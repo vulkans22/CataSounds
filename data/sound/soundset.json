@@ -7,217 +7,217 @@
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "shot",
             "file" : "guns/shot_00.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "22",
             "file" : "guns/22_lr.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "9mm",
             "file" : "guns/9mm.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "38",
             "file" : "guns/38_special.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "40",
             "file" : "guns/40sw.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "44",
             "file" : "guns/44magnum.ogg"
         },
         {
             "id" : "fire_gun",
             "variant" : "45",
-            "volume" : 100,
+            "volume" : 128,
             "file" : "guns/45_acp.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "454",
             "file" : "guns/454_Casull.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "500",
             "file" : "guns/500_Magnum.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "57",
             "file" : "guns/57mm.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "46",
             "file" : "guns/46mm.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "762",
             "file" : "guns/762_m43.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "223",
             "file" : "guns/223.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "270",
             "file" : "guns/270.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "3006",
             "file" : "guns/3006.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "308",
             "file" : "guns/308.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "40mm",
             "file" : "guns/40mm_concussive.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "66mm",
             "file" : "guns/66mm_HEAT.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "120mm",
             "file" : "guns/120mm_HEAT.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "12mm",
             "file" : "guns/12mm.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "8x40mm",
             "file" : "guns/8mm_caseless.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "84x246mm",
             "file" : "guns/84x246mm_he.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "RPG-7",
             "file" : "guns/RPG-7_ammo.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "m235",
             "file" : "guns/m235tpa.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "5x50",
             "file" : "guns/5x50dart.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "50",
             "file" : "guns/50bmg.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "signal_flare",
             "file" : "guns/signal_flare.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "20x66mm",
             "file" : "guns/20x66_shot.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "700nx",
             "file" : "guns/700nx.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "300",
             "file" : "guns/300_winmag.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "32",
             "file" : "guns/32_acp.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "762x25",
             "file" : "guns/762_25.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "762R",
             "file" : "guns/762_54R.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "ammo_flintlock",
             "file" : "guns/flintlock_ammo.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "36paper",
             "file" : "guns/36navy.ogg"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 128,
             "variant" : "44paper",
             "file" : "guns/44army.ogg"
         },
@@ -244,6 +244,18 @@
             "volume" : 100,
             "variant" : "UPS",
             "file" : "guns/laser_pack.ogg"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 85,
+            "variant" : "nail",
+            "file" : "guns/nail1.ogg"
+        },
+        {
+            "id" : "fire_gun_wid",
+            "volume" : 100,
+            "variant" : "unbio_chain_lightning",
+            "file" : "guns/zap1.ogg"
         },
         {
             "id" : "melee_hit",
