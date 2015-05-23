@@ -779,6 +779,24 @@
             "file" : "melee/stab.ogg"
         },
         {
+            "id" : "melee_hit",
+						"variant" : "chainsaw_on",
+            "volume" : 85,
+            "file" : "melee/chainsaw1.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "combatsaw_on",
+            "volume" : 85,
+            "file" : "melee/chainsaw1.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "cslajatang_on",
+            "volume" : 85,
+            "file" : "melee/chainsaw1.ogg"
+        },
+        {
             "id" : "footstep",
             "volume" : 10,
             "file" : "env/step1.ogg"
