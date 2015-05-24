@@ -1981,7 +1981,7 @@
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "hand_crossbow",
             "file" : "guns/archery_generic/weapon_fire_bolt.wav"
         },
@@ -1993,7 +1993,7 @@
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "crossbow",
             "file" : "guns/archery_generic/weapon_fire_bolt.wav"
         },
@@ -2005,7 +2005,7 @@
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "rep_crossbow",
             "file" : "guns/archery_generic/weapon_fire_bolt.wav"
         },
@@ -2017,7 +2017,7 @@
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "selfbow",
             "file" : "guns/archery_generic/weapon_fire_arrow.wav"
         },
@@ -2029,37 +2029,37 @@
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "compositebow",
             "file" : "guns/archery_generic/weapon_fire_arrow.wav"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "compbow",
             "file" : "guns/archery_generic/weapon_fire_arrow.wav"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "recurbow",
             "file" : "guns/archery_generic/weapon_fire_arrow.wav"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "reflexbow",
             "file" : "guns/archery_generic/weapon_fire_arrow.wav"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "longbow",
             "file" : "guns/archery_generic/weapon_fire_arrow.wav"
         },
         {
             "id" : "fire_gun",
-            "volume" : 100,
+            "volume" : 80,
             "variant" : "reflexrecurvebow",
             "file" : "guns/archery_generic/weapon_fire_arrow.wav"
         },
