@@ -7,255 +7,1971 @@
         },
         {
             "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "shot",
-            "file" : "guns/shot_00.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "22",
-            "file" : "guns/22_lr.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "9mm",
-            "file" : "guns/9mm.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "38",
-            "file" : "guns/38_special.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "40",
-            "file" : "guns/40sw.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "44",
-            "file" : "guns/44magnum.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "variant" : "45",
-            "volume" : 128,
-            "file" : "guns/45_acp.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "454",
-            "file" : "guns/454_Casull.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "500",
-            "file" : "guns/500_Magnum.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "57",
-            "file" : "guns/57mm.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "46",
-            "file" : "guns/46mm.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "762",
-            "file" : "guns/762_m43.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "223",
-            "file" : "guns/223.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "270",
-            "file" : "guns/270.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "3006",
-            "file" : "guns/3006.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "308",
-            "file" : "guns/308.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "40mm",
-            "file" : "guns/40mm_concussive.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "66mm",
-            "file" : "guns/66mm_HEAT.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "120mm",
-            "file" : "guns/120mm_HEAT.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "12mm",
-            "file" : "guns/12mm.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "8x40mm",
-            "file" : "guns/8mm_caseless.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "84x246mm",
-            "file" : "guns/84x246mm_he.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "RPG-7",
-            "file" : "guns/RPG-7_ammo.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "m235",
-            "file" : "guns/m235tpa.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "5x50",
-            "file" : "guns/5x50dart.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "50",
-            "file" : "guns/50bmg.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "signal_flare",
-            "file" : "guns/signal_flare.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "20x66mm",
-            "file" : "guns/20x66_shot.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "700nx",
-            "file" : "guns/700nx.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "300",
-            "file" : "guns/300_winmag.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "32",
-            "file" : "guns/32_acp.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "762x25",
-            "file" : "guns/762_25.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "762R",
-            "file" : "guns/762_54R.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "ammo_flintlock",
-            "file" : "guns/flintlock_ammo.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "36paper",
-            "file" : "guns/36navy.ogg"
-        },
-        {
-            "id" : "fire_gun",
-            "volume" : 128,
-            "variant" : "44paper",
-            "file" : "guns/44army.ogg"
+            "volume" : 100,
+            "variant" : "bio_laser_gun",
+            "file" : "guns/energy_generic/weapon_fire_laser.wav"
         },
         {
             "id" : "fire_gun",
             "volume" : 100,
-            "variant" : "gasoline",
-            "file" : "guns/napalm.ogg"
+            "variant" : "bio_blaster_gun",
+            "file" : "guns/energy_generic/weapon_fire_plasma.wav"
         },
         {
             "id" : "fire_gun",
             "volume" : 100,
-            "variant" : "arrow",
-            "file" : "guns/arrow1.ogg"
+            "variant" : "bio_lightning",
+            "file" : "guns/energy_generic/weapon_fire_lightning.wav"
         },
         {
             "id" : "fire_gun",
             "volume" : 100,
-            "variant" : "bolt",
-            "file" : "guns/bolt1.ogg"
+            "variant" : "nailgun",
+            "file" : "guns/misc_generic/weapon_fire_nail.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "nailgun",
+            "file" : "guns/misc_generic/weapon_reload_nail.wav"
         },
         {
             "id" : "fire_gun",
             "volume" : 100,
-            "variant" : "UPS",
-            "file" : "guns/laser_pack.ogg"
+            "variant" : "nailrifle",
+            "file" : "guns/misc_generic/weapon_fire_nail.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "nailrifle",
+            "file" : "guns/misc_generic/weapon_reload_nail.wav"
         },
         {
             "id" : "fire_gun",
-            "volume" : 85,
-            "variant" : "nail",
-            "file" : "guns/nail1.ogg"
+            "volume" : 100,
+            "variant" : "bbgun",
+            "file" : "guns/misc_generic/weapon_fire_bb.wav"
         },
         {
-            "id" : "fire_gun_wid",
+            "id" : "reload",
             "volume" : 100,
-            "variant" : "unbio_chain_lightning",
-            "file" : "guns/zap1.ogg"
+            "variant" : "bbgun",
+            "file" : "guns/misc_generic/weapon_reload_bb.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "variant" : "rifle_22",
+            "volume" : 100,
+            "file" : "guns/pistol_generic/weapon_fire_22cal.wav"
+        },
+        {
+            "id" : "reload",
+            "variant" : "rifle_22",
+            "volume" : 100,
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rifle_9mm",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rifle_9mm",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "briefcase_smg",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "briefcase_smg",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "sig_mosquito",
+            "file" : "guns/pistol_generic/weapon_fire_22cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "sig_mosquito",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "sw_22",
+            "file" : "guns/pistol_generic/weapon_fire_22cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "sw_22",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "glock_19",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "glock_19",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "usp_9mm",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "usp_9mm",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_sp_9mm",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_sp_9mm",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_mp_9mm",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_mp_9mm",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_lookout_9mm",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_lookout_9mm",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "sw_619",
+            "file" : "guns/revolver_generic/weapon_fire_38cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "sw_619",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "taurus_38",
+            "file" : "guns/revolver_generic/weapon_fire_38cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "taurus_38",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "sig_40",
+            "file" : "guns/pistol_generic/weapon_fire_40cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "sig_40",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "glock_22",
+            "file" : "guns/pistol_generic/weapon_fire_40cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "glock_22",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "sw_610",
+            "file" : "guns/pistol_generic/weapon_fire_40cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "sw_610",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "surv_six_shooter",
+            "file" : "guns/pistol_generic/weapon_fire_40cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "surv_six_shooter",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "sw_500",
+            "file" : "guns/revolver_generic/weapon_fire_500cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "sw_500",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "raging_bull",
+            "file" : "guns/revolver_generic/weapon_fire_454cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "raging_bull",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "ruger_redhawk",
+            "file" : "guns/revolver_generic/weapon_fire_44mag.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "ruger_redhawk",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "sw629",
+            "file" : "guns/revolver_generic/weapon_fire_44mag.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "sw629",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "deagle_44",
+            "file" : "guns/revolver_generic/weapon_fire_44mag.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "deagle_44",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "usp_45",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "usp_45",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "surv_hand_cannon",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "surv_hand_cannon",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m1911",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m1911",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_sp_45",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_sp_45",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_mp_45",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_mp_45",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_enforcer_45",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_enforcer_45",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_back_223",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_back_223",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "fn57",
+            "file" : "guns/pistol_generic/weapon_fire_57mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "fn57",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "hk_ucp",
+            "file" : "guns/pistol_generic/weapon_fire_46mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "hk_ucp",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "shotgun_sawn",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "shotgun_sawn",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "saiga_sawn",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "saiga_sawn",
+            "file" : "guns/autoshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "shotgun_s",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "shotgun_s",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "shotgun_d",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "shotgun_d",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "remington_870",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "remington_870",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "mossberg_500",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "mossberg_500",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m1014",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m1014",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "saiga_12",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "saiga_12",
+            "file" : "guns/autoshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_def_12",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_def_12",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "american_180",
+            "file" : "guns/pistol_generic/weapon_fire_22cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "american_180",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "uzi",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "uzi",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "tec9",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "tec9",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "calico",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "calico",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "hk_mp5",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "hk_mp5",
+            "file" : "guns/smg_generic/weapon_reload_mp5_style.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "mac_10",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "mac_10",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "hk_ump45",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "hk_ump45",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "TDI",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "TDI",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "fn_p90",
+            "file" : "guns/pistol_generic/weapon_fire_57mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "fn_p90",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "hk_mp7",
+            "file" : "guns/pistol_generic/weapon_fire_46mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "hk_mp7",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "marlin_9a",
+            "file" : "guns/pistol_generic/weapon_fire_22cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "marlin_9a",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "ruger_1022",
+            "file" : "guns/pistol_generic/weapon_fire_22cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "ruger_1022",
+            "file" : "guns/boltrifle_generic/weapon_reload_mag.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "cx4",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "cx4",
+            "file" : "guns/boltrifle_generic/weapon_reload_mag.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "browning_blr",
+            "file" : "guns/boltrifle_generic/weapon_fire_762x51.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "browning_blr",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_long_45",
+            "file" : "guns/pistol_generic/weapon_fire_45cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_long_45",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "remington_700",
+            "file" : "guns/boltrifle_generic/weapon_fire_3006.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "remington_700",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "survivor_special_700",
+            "file" : "guns/boltrifle_generic/weapon_fire_3006.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "survivor_special_700",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m14a",
+            "file" : "guns/boltrifle_generic/weapon_fire_762x51.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m14a",
+            "file" : "guns/semiautorifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "ruger_mini",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "ruger_mini",
+            "file" : "guns/semiautorifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rifle_308",
+            "file" : "guns/boltrifle_generic/weapon_fire_762x51.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rifle_308",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "surv_carbine_223",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "surv_carbine_223",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "savage_111f",
+            "file" : "guns/boltrifle_generic/weapon_fire_762x51.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "savage_111f",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "hk_g3",
+            "file" : "guns/assaultrifle_generic/weapon_fire_762x51.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "hk_g3",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "hk_g36",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "hk_g36",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "ak47",
+            "file" : "guns/assaultrifle_generic/weapon_fire_762x39.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "ak47",
+            "file" : "guns/assaultrifle_generic/weapon_reload_ak.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "sks",
+            "file" : "guns/assaultrifle_generic/weapon_fire_762x39.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "sks",
+            "file" : "guns/semiautorifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "fn_fal",
+            "file" : "guns/assaultrifle_generic/weapon_fire_762x51.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "fn_fal",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_base_223",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_base_223",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_car_223",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_car_223",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "acr",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "acr",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "ar15",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "ar15",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m4a1",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m4a1",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_mbr_223",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_mbr_223",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "scar_l",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "scar_l",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "scar_h",
+            "file" : "guns/assaultrifle_generic/weapon_fire_762x51.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "scar_h",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m2010",
+            "file" : "guns/boltrifle_generic/weapon_fire_300winmag.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m2010",
+            "file" : "guns/boltrifle_generic/weapon_reload_mag.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m14ebr",
+            "file" : "guns/assaultrifle_generic/weapon_fire_762x51.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m14ebr",
+            "file" : "guns/semiautorifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "h&k416a5",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "h&k416a5",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_dsr_223",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_dsr_223",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m27iar",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m27iar",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "l_lmg_223",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "l_lmg_223",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m9",
+            "file" : "guns/pistol_generic/weapon_fire_9mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m9",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "steyr_aug",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "steyr_aug",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m249",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m249",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "v29",
+            "file" : "guns/energy_generic/weapon_fire_laser.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "cerberus_laser",
+            "file" : "guns/energy_generic/weapon_fire_laser.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "ftk93",
+            "file" : "guns/energy_generic/weapon_fire_plasma.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "nx17",
+            "file" : "guns/energy_generic/weapon_fire_laser.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "flamethrower_simple",
+            "file" : "guns/misc_generic/weapon_fire_flamethrower.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "flamethrower_simple",
+            "file" : "guns/misc_generic/weapon_reload_flamethrower.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "flamethrower",
+            "file" : "guns/misc_generic/weapon_fire_flamethrower.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "flamethrower",
+            "file" : "guns/misc_generic/weapon_reload_flamethrower.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "launcher_simple",
+            "file" : "guns/grenadelauncher_generic/weapon_fire_talon.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "launcher_simple",
+            "file" : "guns/grenadelauncher_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m79",
+            "file" : "guns/grenadelauncher_generic/weapon_fire_talon.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m79",
+            "file" : "guns/grenadelauncher_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m320",
+            "file" : "guns/grenadelauncher_generic/weapon_fire_talon.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m320",
+            "file" : "guns/grenadelauncher_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "mgl",
+            "file" : "guns/grenadelauncher_generic/weapon_fire_milkor.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "mgl",
+            "file" : "guns/grenadelauncher_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm802",
+            "file" : "guns/grenadelauncher_generic/weapon_fire_gp25.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm802",
+            "file" : "guns/grenadelauncher_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm451_flamethrower",
+            "file" : "guns/misc_generic/weapon_fire_flamethrower.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm451_flamethrower",
+            "file" : "guns/misc_generic/weapon_reload_flamethrower.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm360_carbine",
+            "file" : "guns/pistol_generic/weapon_fire_22cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm360_carbine",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "LAW",
+            "file" : "guns/misc_generic/weapon_fire_rocket.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "TANK",
+            "file" : "guns/misc_generic/weapon_fire_120mm.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "coilgun",
+            "file" : "guns/misc_generic/weapon_fire_coilgun.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "coilgun",
+            "file" : "guns/misc_generic/weapon_reload_nail.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "hk_g80",
+            "file" : "guns/energy_generic/weapon_fire_railgun.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "hk_g80",
+            "file" : "guns/energy_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "plasma_rifle",
+            "file" : "guns/energy_generic/weapon_fire_plasma.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "plasma_rifle",
+            "file" : "guns/energy_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "revolver_shotgun",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "revolver_shotgun",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "pipe_shotgun",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "pipe_shotgun",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "blunderbuss",
+            "file" : "guns/boltrifle_generic/weapon_fire_flintlock.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "blunderbuss",
+            "file" : "guns/misc_generic/weapon_reload_flintlock.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "pipe_double_shotgun",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "pipe_double_shotgun",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "pipe_shotgunsawn",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "pipe_shotgunsawn",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "v29_cheap",
+            "file" : "guns/energy_generic/weapon_fire_laser.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm51_assault_rifle",
+            "file" : "guns/smg_generic/weapon_fire_8mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm51_assault_rifle",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm88_battle_rifle",
+            "file" : "guns/smg_generic/weapon_fire_8mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm88_battle_rifle",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm614_lmg",
+            "file" : "guns/smg_generic/weapon_fire_8mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm614_lmg",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm2000_smg",
+            "file" : "guns/smg_generic/weapon_fire_8mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm2000_smg",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm99_pistol",
+            "file" : "guns/smg_generic/weapon_fire_8mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm99_pistol",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm103a_pistol",
+            "file" : "guns/smg_generic/weapon_fire_8mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm103a_pistol",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm11b_sniper_rifle",
+            "file" : "guns/smg_generic/weapon_fire_8mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm11b_sniper_rifle",
+            "file" : "guns/semiautorifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "tihar",
+            "file" : "guns/archery_generic/weapon_fire_boltgun.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "tihar",
+            "file" : "guns/archery_generic/weapon_reload_boltgun.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "helsing",
+            "file" : "guns/archery_generic/weapon_fire_boltgun.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "helsing",
+            "file" : "guns/archery_generic/weapon_reload_boltgun.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "bigun",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "bigun",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "mininuke_launcher",
+            "file" : "guns/grenadelauncher_generic/weapon_fire_talon.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "mininuke_launcher",
+            "file" : "guns/misc_generic/weapon_reload_rocket.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "ashot",
+            "file" : "guns/autoshotgun_generic/weapon_fire_00.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "ashot",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "flaregun",
+            "file" : "guns/misc_generic/weapon_fire_flare.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "flaregun",
+            "file" : "guns/misc_generic/weapon_reload_flare.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "laser_rifle",
+            "file" : "guns/energy_generic/weapon_fire_laser.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "flamethrower_crude",
+            "file" : "guns/misc_generic/weapon_fire_flamethrower.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "flamethrower_crude",
+            "file" : "guns/misc_generic/weapon_reload_flamethrower.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m3_carlgustav",
+            "file" : "guns/misc_generic/weapon_fire_rocket.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m3_carlgustav",
+            "file" : "guns/misc_generic/weapon_reload_rocket.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m202_flash",
+            "file" : "guns/misc_generic/weapon_fire_rocket.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m202_flash",
+            "file" : "guns/misc_generic/weapon_reload_rocket.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "RPG",
+            "file" : "guns/misc_generic/weapon_fire_rocket.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "RPG",
+            "file" : "guns/misc_generic/weapon_reload_rocket.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "needlegun",
+            "file" : "guns/smg_generic/weapon_fire_5x50.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "needlegun",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "needlepistol",
+            "file" : "guns/smg_generic/weapon_fire_5x50.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "needlepistol",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "unbio_blaster_gun",
+            "file" : "guns/energy_generic/weapon_fire_plasma.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rebar_rifle",
+            "file" : "guns/misc_generic/weapon_fire_coilgun.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rebar_rifle",
+            "file" : "guns/archery_generic/weapon_reload_boltgun.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "heavy_rail_rifle",
+            "file" : "guns/energy_generic/weapon_fire_railgun.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "heavy_rail_rifle",
+            "file" : "guns/archery_generic/weapon_reload_boltgun.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm20",
+            "file" : "guns/autoshotgun_generic/weapon_fire_20x66.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm20",
+            "file" : "guns/autoshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm120c",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_20x66.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm120c",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm228",
+            "file" : "guns/autoshotgun_generic/weapon_fire_20x66.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm228",
+            "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m107a1",
+            "file" : "guns/boltrifle_generic/weapon_fire_50cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m107a1",
+            "file" : "guns/boltrifle_generic/weapon_reload_mag.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m2browning",
+            "file" : "guns/boltrifle_generic/weapon_fire_50cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m2browning",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "m2browning_sawn",
+            "file" : "guns/boltrifle_generic/weapon_fire_50cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "m2browning_sawn",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "mark19",
+            "file" : "guns/grenadelauncher_generic/weapon_fire_talon.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "mark19",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "moss_brownie",
+            "file" : "guns/pistol_generic/weapon_fire_22cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "moss_brownie",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "cop_38",
+            "file" : "guns/revolver_generic/weapon_fire_38cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "cop_38",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "2_shot_special",
+            "file" : "guns/revolver_generic/weapon_fire_38cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "2_shot_special",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "arx160",
+            "file" : "guns/assaultrifle_generic/weapon_fire_762x51.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "arx160",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "speargun",
+            "file" : "guns/archery_generic/weapon_fire_bolt.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "speargun",
+            "file" : "guns/archery_generic/weapon_reload_boltgun.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "minispeargun",
+            "file" : "guns/archery_generic/weapon_fire_bolt.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "minispeargun",
+            "file" : "guns/archery_generic/weapon_reload_boltgun.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "doublespeargun",
+            "file" : "guns/archery_generic/weapon_fire_bolt.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "doublespeargun",
+            "file" : "guns/archery_generic/weapon_reload_boltgun.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "airspeargun",
+            "file" : "guns/archery_generic/weapon_fire_boltgun.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "airspeargun",
+            "file" : "guns/archery_generic/weapon_reload_boltgun.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "tokarev",
+            "file" : "guns/smg_generic/weapon_fire_762x25.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "tokarev",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "ppsh",
+            "file" : "guns/smg_generic/weapon_fire_762x25.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "ppsh",
+            "file" : "guns/smg_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "walther_ppk",
+            "file" : "guns/pistol_generic/weapon_fire_32cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "walther_ppk",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "sig_p230",
+            "file" : "guns/pistol_generic/weapon_fire_32cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "sig_p230",
+            "file" : "guns/pistol_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "win70",
+            "file" : "guns/boltrifle_generic/weapon_fire_300winmag.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "win70",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "weatherby_5",
+            "file" : "guns/boltrifle_generic/weapon_fire_300winmag.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "weatherby_5",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "colt_navy",
+            "file" : "guns/revolver_generic/weapon_fire_36cal.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "colt_navy",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "colt_army",
+            "file" : "guns/revolver_generic/weapon_fire_44army.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "colt_army",
+            "file" : "guns/revolver_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rifle_flintlock",
+            "file" : "guns/boltrifle_generic/weapon_fire_flintlock.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rifle_flintlock",
+            "file" : "guns/misc_generic/weapon_reload_flintlock.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "carbine_flintlock",
+            "file" : "guns/boltrifle_generic/weapon_fire_flintlock.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "carbine_flintlock",
+            "file" : "guns/misc_generic/weapon_reload_flintlock.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "pistol_flintlock",
+            "file" : "guns/boltrifle_generic/weapon_fire_flintlock.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "pistol_flintlock",
+            "file" : "guns/misc_generic/weapon_reload_flintlock.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "mosin91_30",
+            "file" : "guns/boltrifle_generic/weapon_fire_762x54r.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "mosin91_30",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "mosin44",
+            "file" : "guns/boltrifle_generic/weapon_fire_762x54r.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "mosin44",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "mosin91_30_ebr",
+            "file" : "guns/boltrifle_generic/weapon_fire_762x54r.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "mosin91_30_ebr",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "mosin44_ebr",
+            "file" : "guns/boltrifle_generic/weapon_fire_762x54r.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "mosin44_ebr",
+            "file" : "guns/boltrifle_generic/weapon_reload_single.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "trex_gun",
+            "file" : "guns/boltrifle_generic/weapon_fire_700nx.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "trex_gun",
+            "file" : "guns/grenadelauncher_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rm298",
+            "file" : "guns/smg_generic/weapon_fire_8mm.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rm298",
+            "file" : "guns/assaultrifle_generic/weapon_reload.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "laser_cannon",
+            "file" : "guns/energy_generic/weapon_fire_laser.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "surv_rocketlauncher",
+            "file" : "guns/misc_generic/weapon_fire_rocket.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "surv_rocketlauncher",
+            "file" : "guns/misc_generic/weapon_reload_rocket.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "watercannon",
+            "file" : "guns/misc_generic/weapon_fire_water.wav"
         },
         {
             "id" : "melee_hit",
@@ -798,53 +2514,53 @@
         },
         {
             "id" : "footstep",
-            "volume" : 10,
+            "volume" : 30,
             "file" : "env/step1.ogg"
         },
         {
             "id" : "open_door",
-            "volume" : 75,
+            "volume" : 95,
             "file" : "env/dooropen1.ogg"
         },
         {
             "id" : "close_door",
-            "volume" : 75,
+            "volume" : 95,
             "file" : "env/doorclose1.ogg"
         },
         {
             "id" : "open_door",
 						"variant" : "t_door_metal_c",
-            "volume" : 55,
+            "volume" : 75,
             "file" : "env/mdooropen1.ogg"
         },
         {
             "id" : "close_door",
 						"variant" : "t_door_metal_o",
-            "volume" : 55,
+            "volume" : 75,
             "file" : "env/mdoorclose1.ogg"
         },
         {
             "id" : "open_door",
 						"variant" : "t_window_domestic",
-            "volume" : 75,
+            "volume" : 85,
             "file" : "env/windowopen1.ogg"
         },
         {
             "id" : "close_door",
 						"variant" : "t_window_open",
-            "volume" : 75,
+            "volume" : 85,
             "file" : "env/windowclose1.ogg"
         },
         {
             "id" : "close_door",
 						"variant" : "t_window_domestic",
-            "volume" : 65,
+            "volume" : 75,
             "file" : "env/curtainclose1.ogg"
         },
         {
             "id" : "open_door",
 						"variant" : "t_curtains",
-            "volume" : 65,
+            "volume" : 75,
             "file" : "env/curtainclose1.ogg"
         },
         {
@@ -855,43 +2571,43 @@
         {
             "id" : "smash",
 						"variant" : "wall",
-            "volume" : 55,
+            "volume" : 85,
             "file" : "env/smashwall1.ogg"
         },
         {
             "id" : "smash",
 						"variant" : "door",
-            "volume" : 55,
+            "volume" : 90,
             "file" : "env/smashdoor1.ogg"
         },
         {
             "id" : "smash",
 						"variant" : "door_boarded",
-            "volume" : 55,
+            "volume" : 90,
             "file" : "env/smashdoor1.ogg"
         },
         {
             "id" : "smash",
 						"variant" : "glass",
-            "volume" : 55,
+            "volume" : 75,
             "file" : "env/smashglass1.ogg"
         },
         {
             "id" : "explosion",
 						"variant" : "default",
-            "volume" : 65,
+            "volume" : 55,
             "file" : "env/explosion1.ogg"
         },
         {
             "id" : "explosion",
 						"variant" : "small",
-            "volume" : 65,
+            "volume" : 55,
             "file" : "env/explosion1.ogg"
         },
         {
             "id" : "explosion",
 						"variant" : "huge",
-            "volume" : 90,
+            "volume" : 85,
             "file" : "env/explosion2.ogg"
         }
     ]

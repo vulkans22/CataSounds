@@ -1,0 +1,322 @@
+[
+	{
+        "type" : "vehicle_part",
+        "id" : "halfboard_hd_horizontal",
+        "name" : "heavy duty quarterpanel",
+        "symbol" : "h",
+        "color" : "dark_gray",
+        "broken_symbol" : "#",
+        "broken_color" : "light_gray",
+        "durability" : 1200,
+        "item" : "steel_plate",
+        "difficulty" : 1,
+        "location" : "center",
+        "flags" : ["OBSTACLE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "halfboard_hd_vertical",
+        "name" : "heavy duty quarterpanel",
+        "symbol" : "j",
+        "color" : "dark_gray",
+        "broken_symbol" : "#",
+        "broken_color" : "light_gray",
+        "durability" : 1200,
+        "item" : "steel_plate",
+        "difficulty" : 1,
+        "location" : "center",
+        "flags" : ["OBSTACLE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "halfboard_hd_nw",
+        "name" : "heavy duty quarterpanel",
+        "symbol" : "y",
+        "color" : "dark_gray",
+        "broken_symbol" : "#",
+        "broken_color" : "light_gray",
+        "durability" : 1200,
+        "item" : "steel_plate",
+        "difficulty" : 1,
+        "location" : "center",
+        "flags" : ["OBSTACLE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "halfboard_hd_ne",
+        "name" : "heavy duty quarterpanel",
+        "symbol" : "u",
+        "color" : "dark_gray",
+        "broken_symbol" : "#",
+        "broken_color" : "light_gray",
+        "durability" : 1200,
+        "item" : "steel_plate",
+        "difficulty" : 1,
+        "location" : "center",
+        "flags" : ["OBSTACLE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "halfboard_hd_se",
+        "name" : "heavy duty quarterpanel",
+        "symbol" : "n",
+        "color" : "dark_gray",
+        "broken_symbol" : "#",
+        "broken_color" : "light_gray",
+        "durability" : 1200,
+        "item" : "steel_plate",
+        "difficulty" : 1,
+        "location" : "center",
+        "flags" : ["OBSTACLE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "halfboard_hd_sw",
+        "name" : "heavy duty quarterpanel",
+        "symbol" : "b",
+        "color" : "dark_gray",
+        "broken_symbol" : "#",
+        "broken_color" : "light_gray",
+        "durability" : 1200,
+        "item" : "steel_plate",
+        "difficulty" : 1,
+        "location" : "center",
+        "flags" : ["OBSTACLE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "halfboard_hd_horizontal_2",
+        "name" : "heavy duty quarterpanel",
+        "symbol" : "=",
+        "color" : "dark_gray",
+        "broken_symbol" : "#",
+        "broken_color" : "light_gray",
+        "durability" : 1200,
+        "item" : "steel_plate",
+        "difficulty" : 1,
+        "location" : "center",
+        "flags" : ["OBSTACLE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "halfboard_hd_vertical_2",
+        "name" : "heavy duty quarterpanel",
+        "symbol" : "H",
+        "color" : "dark_gray",
+        "broken_symbol" : "#",
+        "broken_color" : "light_gray",
+        "durability" : 1200,
+        "item" : "steel_plate",
+        "difficulty" : 1,
+        "location" : "center",
+        "flags" : ["OBSTACLE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "halfboard_hd_cover",
+        "name" : "heavy duty quarterpanel",
+        "symbol" : "^",
+        "color" : "dark_gray",
+        "broken_symbol" : "#",
+        "broken_color" : "light_gray",
+        "durability" : 1200,
+        "item" : "steel_plate",
+        "difficulty" : 1,
+        "location" : "center",
+        "flags" : ["OBSTACLE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "lightning_turret",
+        "name" : "mounted chain lightning",
+        "symbol" : "t",
+        "color" : "magenta",
+        "broken_symbol" : "#",
+        "broken_color" : "magenta",
+        "damage_modifier" : 80,
+        "durability" : 400,
+        "range" : 12,
+        "item" : "unbio_chain_lightning",
+        "difficulty" : 8,
+        "location" : "on_roof",
+        "flags" : ["TURRET"],
+        "breaks_into" : [
+            {"item": "unbio_chain_lightning", "min": 0, "max": 1}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "blaster_turret",
+        "name" : "mounted fusion blaster",
+        "symbol" : "t",
+        "color" : "magenta",
+        "broken_symbol" : "#",
+        "broken_color" : "magenta",
+        "damage_modifier" : 80,
+        "durability" : 400,
+        "range" : 15,
+        "item" : "unbio_blaster_gun",
+        "difficulty" : 8,
+        "location" : "on_roof",
+        "flags" : ["TURRET"],
+        "breaks_into" : [
+            {"item": "unbio_blaster_gun", "min": 0, "max": 1}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "small_kitchen_unit",
+        "name" : "small kitchen unit",
+        "symbol" : "&",
+        "color" : "light_cyan",
+        "broken_symbol" : "x",
+        "broken_color" : "light_cyan",
+        "damage_modifier" : 10,
+        "durability" : 80,
+        "item" : "kitchen_unit",
+        "difficulty" : 3,
+        "flags" : ["KITCHEN", "COVERED"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 30, "max": 40},
+            {"item": "steel_chunk", "min": 30, "max": 40},
+            {"item": "scrap", "min": 30, "max": 40},
+            {"item": "pan", "min": 0, "max": 1},
+            {"item": "pot", "min": 0, "max": 1}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "small_welding_rig",
+        "name" : "small welding rig",
+        "symbol" : "&",
+        "color" : "light_red",
+        "broken_symbol" : "x",
+        "broken_color" : "light_red",
+        "damage_modifier" : 10,
+        "durability" : 95,
+        "item" : "weldrig",
+        "difficulty" : 3,
+        "flags" : ["WELDRIG", "COVERED"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 3, "max": 6},
+            {"item": "steel_chunk", "min": 3, "max": 6},
+            {"item": "scrap", "min": 3, "max": 6},
+            {"item": "welder", "min": 0, "max": 1}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "small_craft_rig",
+        "name" : "small FOODCO kitchen buddy",
+        "symbol" : "&",
+        "color" : "light_green",
+        "broken_symbol" : "x",
+        "broken_color" : "light_gray",
+        "damage_modifier" : 10,
+        "durability" : 80,
+        "item" : "craftrig",
+        "difficulty" : 3,
+        "flags" : ["CRAFTRIG", "COVERED"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 4, "max": 7},
+            {"item": "steel_chunk", "min": 4, "max": 7},
+            {"item": "scrap", "min": 4, "max": 7},
+            {"item": "pan", "min": 0, "max": 1},
+            {"item": "pot", "min": 0, "max": 1},
+            {"item": "water_purifier", "min": 0, "max": 1},
+            {"item": "vac_sealer", "min": 0, "max": 1},
+            {"item": "dehydrator", "min": 0, "max": 1},
+            {"item": "press", "min": 0, "max": 1}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "small_chemlab",
+        "name" : "small onboard chemistry lab",
+        "symbol" : "&",
+        "color" : "yellow",
+        "broken_symbol" : "x",
+        "broken_color" : "light_gray",
+        "damage_modifier" : 10,
+        "durability" : 65,
+        "item" : "chemlab",
+        "difficulty" : 3,
+        "flags" : ["CHEMLAB", "COVERED"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 4, "max": 7},
+            {"item": "steel_chunk", "min": 4, "max": 7},
+            {"item": "scrap", "min": 4, "max": 7},
+            {"item": "chemistry_set", "min": 0, "max": 1},
+            {"item": "hotplate", "min": 0, "max": 1}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "small_veh_forge",
+        "name" : "small mounted electric forge",
+        "symbol" : "&",
+        "color" : "red",
+        "broken_symbol" : "x",
+        "broken_color" : "light_gray",
+        "damage_modifier" : 10,
+        "durability" : 180,
+        "item" : "forgerig",
+        "difficulty" : 3,
+        "flags" : ["FORGE"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 4, "max": 5},
+            {"item": "steel_chunk", "min": 4, "max": 6},
+            {"item": "scrap", "min": 4, "max": 6}
+        ]
+    },{
+        "type" : "vehicle_part",
+        "id" : "climate_control",
+        "name" : "cargo climate control",
+        "symbol" : "H",
+        "color" : "light_blue",
+        "broken_symbol" : "#",
+        "broken_color" : "light_blue",
+        "damage_modifier" : 80,
+        "durability" : 100,
+        "epower" : -249,
+        "item" : "minifridge",
+        "difficulty" : 3,
+        "flags" : ["FRIDGE", "COVERED"],
+        "breaks_into" : [
+            {"item": "steel_lump", "min": 8, "max": 13},
+            {"item": "steel_chunk", "min": 8, "max": 13},
+            {"item": "scrap", "min": 8, "max": 13},
+            {"item": "hose", "min": 0, "max": 1}
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": "unbio_chain_lightning",
+    "type": "GUN",
+    "symbol": "(",
+    "color": "magenta",
+    "name": "chain lightning rifle",
+    "description": "A cyborg's chain lightning CBM, cannibalized and converted into a rifle.  This improvised weapon is powered by a standard UPS connection.",
+    "price": 420000,
+    "material": ["steel", "plastic"],
+    "ammo_effects": ["LIGHTNING", "BOUNCE", "NEVER_JAMS"],
+    "flags": ["NO_AMMO", "NO_UNLOAD"],
+    "ups_charges": 20,
+    "skill": "rifle",
+    "ammo": "UPS",
+    "weight": 2480,
+    "volume": 10,
+    "bashing": 10,
+    "cutting": 0,
+    "to_hit": -1,
+    "ranged_damage": 28,
+    "range": 15,
+    "dispersion": 10,
+    "sight_dispersion": 150,
+    "aim_speed" : 0,
+    "recoil": 0,
+    "durability": 8,
+    "clip_size": 20,
+    "loudness": 4,
+    "reload": 600,
+    "valid_mod_locations": [[ "accessories", 4 ],[ "grip", 1 ],[ "rail", 1 ],[ "sights", 1 ],[ "stock", 1 ],[ "underbarrel", 1 ]]
+  }
+]

@@ -1,0 +1,83 @@
+[
+    {
+    "type" : "item_group",
+    "id" : "vault",
+    "items":[
+      ["power_armor_light", 3],
+			["power_armor_helmet_light", 3],
+      ["power_armor_heavy", 3],
+			["power_armor_helmet_heavy", 3],
+      ["power_armor_frame", 4],
+      ["power_armor_sheath", 4],
+      ["power_armor_scabbard", 4],
+      ["power_armor_rifle_case", 4],
+      ["power_armor_pistol_case", 4],
+      ["power_armor_liquid_container", 4],
+      ["laser_rifle", 5]
+    ]
+  },{
+    "type" : "item_group",
+    "id" : "military",
+    "items":[
+      ["power_armor_basic", 2],
+      ["power_armor_helmet_basic", 2],
+      ["power_armor_light", 2],
+      ["power_armor_helmet_light", 2],
+      ["power_armor_heavy", 2],
+      ["power_armor_helmet_heavy", 2],
+      ["power_armor_frame", 2],
+      ["power_armor_sheath", 2],
+      ["power_armor_scabbard", 2],
+      ["power_armor_rifle_case", 2],
+      ["power_armor_pistol_case", 2],
+      ["power_armor_liquid_container", 2]
+    ]
+  },{
+    "type" : "item_group",
+    "id" : "manuals",
+    "items":[
+      ["manual_boxing", 1],
+      ["manual_karate", 1],
+      ["manual_aikido", 1],
+      ["manual_judo", 1],
+      ["manual_tai_chi", 1],
+      ["manual_capoeira", 1],
+      ["manual_krav_maga", 1],
+      ["manual_muay_thai", 1],
+      ["manual_ninjutsu", 1],
+      ["manual_taekwondo", 1],
+      ["manual_zui_quan", 1],
+      ["manual_crane", 1],
+      ["manual_dragon", 1],
+      ["manual_leopard", 1],
+      ["manual_tiger", 1],
+      ["manual_snake", 1],
+      ["manual_centipede", 1],
+      ["manual_scorpion", 1],
+      ["manual_toad", 1],
+      ["manual_lizard", 1],
+      ["manual_venom_snake", 1],
+      ["manual_eskrima", 1],
+      ["manual_fencing", 1],
+      ["manual_niten", 1],
+      ["manual_silat", 1]
+    ]
+  },{
+    "type" : "item_group",
+    "id" : "mil_armor",
+    "items":[
+      ["power_armor_basic", 3],
+      ["power_armor_helmet_basic", 3],
+      ["power_armor_light", 3],
+      ["power_armor_helmet_light", 3],
+      ["power_armor_heavy", 3],
+      ["power_armor_helmet_heavy", 3],
+      ["power_armor_frame", 3],
+      ["power_armor_sheath", 3],
+      ["power_armor_scabbard", 3],
+      ["power_armor_rifle_case", 3],
+      ["power_armor_pistol_case", 3],
+      ["power_armor_liquid_container", 3]
+    ]
+  }
+]
