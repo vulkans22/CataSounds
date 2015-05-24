@@ -1974,6 +1974,96 @@
             "file" : "guns/misc_generic/weapon_fire_water.wav"
         },
         {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "unbio_chain_lightning",
+            "file" : "guns/energy_generic/weapon_fire_lightning.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "hand_crossbow",
+            "file" : "guns/archery_generic/weapon_fire_bolt.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "hand_crossbow",
+            "file" : "guns/archery_generic/weapon_reload_crossbow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "crossbow",
+            "file" : "guns/archery_generic/weapon_fire_bolt.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "crossbow",
+            "file" : "guns/archery_generic/weapon_reload_crossbow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "rep_crossbow",
+            "file" : "guns/archery_generic/weapon_fire_bolt.wav"
+        },
+        {
+            "id" : "reload",
+            "volume" : 100,
+            "variant" : "rep_crossbow",
+            "file" : "guns/archery_generic/weapon_reload_crossbow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "selfbow",
+            "file" : "guns/archery_generic/weapon_fire_arrow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "shortbow",
+            "file" : "guns/archery_generic/weapon_fire_arrow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "compositebow",
+            "file" : "guns/archery_generic/weapon_fire_arrow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "compbow",
+            "file" : "guns/archery_generic/weapon_fire_arrow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "recurbow",
+            "file" : "guns/archery_generic/weapon_fire_arrow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "reflexbow",
+            "file" : "guns/archery_generic/weapon_fire_arrow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "longbow",
+            "file" : "guns/archery_generic/weapon_fire_arrow.wav"
+        },
+        {
+            "id" : "fire_gun",
+            "volume" : 100,
+            "variant" : "reflexrecurvebow",
+            "file" : "guns/archery_generic/weapon_fire_arrow.wav"
+        },
+        {
             "id" : "melee_hit",
             "volume" : 100,
             "file" : "melee/impact.ogg"
