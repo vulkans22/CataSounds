@@ -2065,542 +2065,560 @@
         },
         {
             "id" : "melee_hit",
-            "volume" : 100,
-            "file" : "melee/impact.ogg"
+            "volume" : 85,
+            "file" : "melee/generic/generic_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "katana",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "lajatang",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "bio_blade_weapon",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "machete",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "firemachete_off",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "firemachete_on",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_knife",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_machete",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_katana",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "wakizashi",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "firekatana_off",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "firekatana_on",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "broadsword",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "broadfire_off",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "broadfire_on",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "nodachi",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "kukri",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_kukri",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "survivor_machete",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_rapier",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_broadsword",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_wakizashi",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_nodachi",
-            "volume" : 100,
-            "file" : "melee/edged.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "hammer_sledge",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "mjolnir",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "bokken",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "cudgel",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "q_staff",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "i_staff",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "warhammer",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "homewrecker",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "morningstar",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "mace",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "halligan",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "zweihander",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "zweifire_off",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "zweifire_on",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "ax",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "fire_ax",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "battleaxe",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "scythe_war",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "shock_staff",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack_electric.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_zweihander",
-            "volume" : 100,
-            "file" : "melee/blunt.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "knife_combat",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "sword_nail",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "sword_wood",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "sword_crude",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "sword_forged",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "nailboard",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "nailbat",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "bwirebat",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "bowling_axe",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "pipe",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "bat",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "bat_metal",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "spear_wood",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "spear_forked",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "spear_steel",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "spear_survivor",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "baton-extended",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "hockey_stick",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "tonfa",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "tonfa_wood",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "PR24-extended",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "glass_macuahuitl",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "hammer",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "crowbar",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "makeshift_crowbar",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "shovel",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "tanto",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "kris",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "spear_knife",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "rapier",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "pike",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "makeshift_machete",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "shishkebab_off",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "shishkebab_on",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "makeshift_halberd",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "knife_trench",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "knife_hunting",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "knife_rambo",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "knife_rm42",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "scythe",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "sickle",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diveknife",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "lobotomizer",
-            "volume" : 100,
-            "file" : "melee/stab.ogg"
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "chainsaw_off",
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "chainsaw_on",
             "volume" : 85,
-            "file" : "melee/chainsaw1.ogg"
+            "file" : "melee/big_misc/weapon_chainsaw.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "combatsaw_off",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "combatsaw_on",
             "volume" : 85,
-            "file" : "melee/chainsaw1.ogg"
+            "file" : "melee/big_misc/weapon_chainsaw.ogg"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "cslajatang_off",
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "cslajatang_on",
             "volume" : 85,
-            "file" : "melee/chainsaw1.ogg"
+            "file" : "melee/big_misc/weapon_chainsaw.ogg"
         },
         {
             "id" : "footstep",
