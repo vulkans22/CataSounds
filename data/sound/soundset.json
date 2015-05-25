@@ -2108,19 +2108,25 @@
             "id" : "melee_hit",
 						"variant" : "diamond_knife",
             "volume" : 85,
-            "file" : "melee/small_stabbing/weapon_attack.wav"
+            "file" : "melee/small_stabbing/weapon_attack_diamond.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "torch_lit",
+            "volume" : 85,
+            "file" : "melee/generic/generic_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_machete",
             "volume" : 85,
-            "file" : "melee/small_cutting/weapon_attack.wav"
+            "file" : "melee/small_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_katana",
             "volume" : 85,
-            "file" : "melee/big_cutting/weapon_attack.wav"
+            "file" : "melee/big_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
@@ -2174,7 +2180,7 @@
             "id" : "melee_hit",
 						"variant" : "diamond_kukri",
             "volume" : 85,
-            "file" : "melee/small_cutting/weapon_attack.wav"
+            "file" : "melee/small_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
@@ -2186,25 +2192,25 @@
             "id" : "melee_hit",
 						"variant" : "diamond_rapier",
             "volume" : 85,
-            "file" : "melee/small_stabbing/weapon_attack.wav"
+            "file" : "melee/small_stabbing/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_broadsword",
             "volume" : 85,
-            "file" : "melee/big_cutting/weapon_attack.wav"
+            "file" : "melee/big_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_wakizashi",
             "volume" : 85,
-            "file" : "melee/small_cutting/weapon_attack.wav"
+            "file" : "melee/small_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "diamond_nodachi",
             "volume" : 85,
-            "file" : "melee/big_cutting/weapon_attack.wav"
+            "file" : "melee/big_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
@@ -2222,13 +2228,13 @@
             "id" : "melee_hit",
 						"variant" : "bokken",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "cudgel",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
@@ -2251,6 +2257,18 @@
         {
             "id" : "melee_hit",
 						"variant" : "homewrecker",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "wrench",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "boltcutters",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
@@ -2310,6 +2328,18 @@
         },
         {
             "id" : "melee_hit",
+						"variant" : "battletorch",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "battletorch_lit",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack_wooden_fire.wav"
+        },
+        {
+            "id" : "melee_hit",
 						"variant" : "scythe_war",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
@@ -2324,7 +2354,7 @@
             "id" : "melee_hit",
 						"variant" : "diamond_zweihander",
             "volume" : 85,
-            "file" : "melee/big_cutting/weapon_attack.wav"
+            "file" : "melee/big_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
@@ -2334,15 +2364,21 @@
         },
         {
             "id" : "melee_hit",
+						"variant" : "screwdriver",
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
 						"variant" : "sword_nail",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "sword_wood",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
@@ -2360,25 +2396,25 @@
             "id" : "melee_hit",
 						"variant" : "nailboard",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "nailbat",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "bwirebat",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
 						"variant" : "bowling_axe",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
@@ -2390,7 +2426,7 @@
             "id" : "melee_hit",
 						"variant" : "bat",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
@@ -2436,6 +2472,12 @@
         },
         {
             "id" : "melee_hit",
+						"variant" : "pickaxe",
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
 						"variant" : "tonfa",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
@@ -2444,7 +2486,7 @@
             "id" : "melee_hit",
 						"variant" : "tonfa_wood",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
@@ -2456,7 +2498,7 @@
             "id" : "melee_hit",
 						"variant" : "glass_macuahuitl",
             "volume" : 85,
-            "file" : "melee/small_bash/weapon_attack.wav"
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
@@ -2469,6 +2511,48 @@
 						"variant" : "crowbar",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "primitive_hammer",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "primitive_adze",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "e-tool",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "creepy_doll",
+            "volume" : 85,
+            "file" : "melee/small_misc/weapon_doll.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "horn_bicycle",
+            "volume" : 85,
+            "file" : "melee/small_misc/weapon_horn.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "primitive_shovel",
+            "volume" : 85,
+            "file" : "melee/big_bash/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "primitive_knife",
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
@@ -2485,6 +2569,12 @@
         {
             "id" : "melee_hit",
 						"variant" : "tanto",
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "makeshift_knife",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
@@ -2544,6 +2634,24 @@
         },
         {
             "id" : "melee_hit",
+						"variant" : "switchblade",
+            "volume" : 85,
+            "file" : "melee/small_stabbing/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "airhorn",
+            "volume" : 85,
+            "file" : "melee/small_misc/weapon_airhorn.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "cow_bell",
+            "volume" : 85,
+            "file" : "melee/small_misc/weapon_cowbell.wav"
+        },
+        {
+            "id" : "melee_hit",
 						"variant" : "knife_hunting",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
@@ -2583,6 +2691,24 @@
 						"variant" : "lobotomizer",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "vibrator",
+            "volume" : 85,
+            "file" : "melee/small_misc/weapon_vibrator.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "shocktonfa_off",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack_wooden.wav"
+        },
+        {
+            "id" : "melee_hit",
+						"variant" : "shocktonfa_on",
+            "volume" : 85,
+            "file" : "melee/small_bash/weapon_attack_wooden_electric.wav"
         },
         {
             "id" : "melee_hit",
