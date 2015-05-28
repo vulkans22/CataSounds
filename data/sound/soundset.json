@@ -2843,6 +2843,48 @@
 						"variant" : "huge",
             "volume" : 85,
             "file" : "env/explosion2.ogg"
+        },
+        {
+            "id" : "environment",
+						"variant" : "thunder_far",
+            "volume" : 75,
+            "file" : "env/thunder_far.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "thunder_near",
+            "volume" : 95,
+            "file" : "env/thunder_near.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "flurries",
+            "volume" : 100,
+            "file" : "env/flurries.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "rain",
+            "volume" : 90,
+            "file" : "env/rain.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "rain_car",
+            "volume" : 90,
+            "file" : "env/rain_car.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "snow",
+            "volume" : 100,
+            "file" : "env/snow.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "thunderstorm",
+            "volume" : 100,
+            "file" : "env/thunderstorm.wav"
         }
     ]
 }
