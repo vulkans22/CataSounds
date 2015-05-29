@@ -2910,6 +2910,18 @@
             "volume" : 85,
             "file" : "env/nighttime.wav"
         },
+                {
+            "id" : "environment",
+						"variant" : "indoors",
+            "volume" : 100,
+            "file" : "env/indoors.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "underground",
+            "volume" : 100,
+            "file" : "env/underground.wav"
+        },
         {
             "id" : "fire_gun",
 						"variant" : "bio_lightning_tail",
