@@ -2905,6 +2905,150 @@
             "file" : "env/smashglass1.ogg"
         },
         {
+            "id" : "smash_success",
+						"variant" : "hit_vehicle",
+            "volume" : 100,
+            "file" : "env/smash_vehicle.wav"
+        },
+        {
+            "id" : "smash_success",
+						"variant" : "smash_glass_contents",
+            "volume" : 50,
+            "file" : "env/smash_glass.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "t_curtains",
+            "volume" : 100,
+            "file" : "env/smash_glass.wav"
+        },
+				{
+            "id" : "smash_fail",
+						"variant" : "t_curtains",
+            "volume" : 100,
+            "file" : "env/hit_glass.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "t_window_domestic",
+            "volume" : 100,
+            "file" : "env/smash_glass.wav"
+        },
+				{
+            "id" : "smash_fail",
+						"variant" : "t_window_domestic",
+            "volume" : 100,
+            "file" : "env/hit_glass.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "t_window_open",
+            "volume" : 100,
+            "file" : "env/smash_glass.wav"
+        },
+        {
+            "id" : "smash_fail",
+						"variant" : "t_window_open",
+            "volume" : 100,
+            "file" : "env/hit_glass.wav"
+        },
+        {
+            "id" : "smash_success",
+						"variant" : "t_window_frame",
+            "volume" : 100,
+            "file" : "env/smash_glass_fragments.wav"
+        },
+        {
+            "id" : "smash_fail",
+						"variant" : "t_window_frame",
+            "volume" : 100,
+            "file" : "env/smash_glass_fragments.wav"
+        },
+				{
+            "id" : "smash_fail",
+						"variant" : "f_locker",
+            "volume" : 80,
+            "file" : "env/hit_door_metal.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "f_locker",
+            "volume" : 100,
+            "file" : "env/smash_door_metal.wav"
+        },
+        {
+            "id" : "smash_fail",
+						"variant" : "t_door_c",
+            "volume" : 100,
+            "file" : "env/hit_door_wooden.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "t_door_c",
+            "volume" : 100,
+            "file" : "env/smash_door_wooden.wav"
+        },
+        {
+            "id" : "smash_fail",
+						"variant" : "t_door_b",
+            "volume" : 100,
+            "file" : "env/hit_door_wooden.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "t_door_b",
+            "volume" : 100,
+            "file" : "env/smash_door_wooden.wav"
+        },
+        {
+            "id" : "smash_fail",
+						"variant" : "f_bench",
+            "volume" : 100,
+            "file" : "env/hit_door_wooden.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "f_bench",
+            "volume" : 100,
+            "file" : "env/smash_door_wooden.wav"
+        },
+        {
+            "id" : "smash_fail",
+						"variant" : "f_counter",
+            "volume" : 100,
+            "file" : "env/hit_door_wooden.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "f_counter",
+            "volume" : 100,
+            "file" : "env/smash_door_wooden.wav"
+        },
+        {
+            "id" : "smash_fail",
+						"variant" : "t_concrete_wall",
+            "volume" : 70,
+            "file" : "env/hit_rock.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "t_concrete_wall",
+            "volume" : 100,
+            "file" : "env/smash_rock.wav"
+        },
+        {
+            "id" : "smash_fail",
+						"variant" : "t_wall",
+            "volume" : 70,
+            "file" : "env/hit_rock.wav"
+        },
+				{
+            "id" : "smash_success",
+						"variant" : "t_wall",
+            "volume" : 100,
+            "file" : "env/smash_rock.wav"
+        },
+        {
             "id" : "explosion",
 						"variant" : "default",
             "volume" : 85,
@@ -2993,6 +3137,12 @@
 						"variant" : "underground",
             "volume" : 100,
             "file" : "env/underground.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "alarm",
+            "volume" : 100,
+            "file" : "env/security_alarm.wav"
         },
         {
             "id" : "fire_gun",
