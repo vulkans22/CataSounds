@@ -3092,9 +3092,9 @@
         },
         {
             "id" : "environment",
-						"variant" : "rain_car",
+						"variant" : "indoors_rain",
             "volume" : 90,
-            "file" : "env/rain_car.wav"
+            "file" : "env/indoors_rain.wav"
         },
         {
             "id" : "environment",
