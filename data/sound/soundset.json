@@ -2070,679 +2070,679 @@
         },
         {
             "id" : "melee_hit",
-						"variant" : "katana",
+            "variant" : "katana",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "lajatang",
+            "variant" : "lajatang",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "bio_blade_weapon",
+            "variant" : "bio_blade_weapon",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "machete",
+            "variant" : "machete",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "firemachete_off",
+            "variant" : "firemachete_off",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "firemachete_on",
+            "variant" : "firemachete_on",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diamond_knife",
+            "variant" : "diamond_knife",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "torch_lit",
+            "variant" : "torch_lit",
             "volume" : 85,
             "file" : "melee/generic/generic_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diamond_machete",
+            "variant" : "diamond_machete",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diamond_katana",
+            "variant" : "diamond_katana",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "wakizashi",
+            "variant" : "wakizashi",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "firekatana_off",
+            "variant" : "firekatana_off",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "firekatana_on",
+            "variant" : "firekatana_on",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "broadsword",
+            "variant" : "broadsword",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "broadfire_off",
+            "variant" : "broadfire_off",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "broadfire_on",
+            "variant" : "broadfire_on",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "nodachi",
+            "variant" : "nodachi",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "kukri",
+            "variant" : "kukri",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diamond_kukri",
+            "variant" : "diamond_kukri",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "survivor_machete",
+            "variant" : "survivor_machete",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diamond_rapier",
+            "variant" : "diamond_rapier",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diamond_broadsword",
+            "variant" : "diamond_broadsword",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diamond_wakizashi",
+            "variant" : "diamond_wakizashi",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diamond_nodachi",
+            "variant" : "diamond_nodachi",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "hammer_sledge",
+            "variant" : "hammer_sledge",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "mjolnir",
+            "variant" : "mjolnir",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "bokken",
+            "variant" : "bokken",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "cudgel",
+            "variant" : "cudgel",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "q_staff",
+            "variant" : "q_staff",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "i_staff",
+            "variant" : "i_staff",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "warhammer",
+            "variant" : "warhammer",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "homewrecker",
+            "variant" : "homewrecker",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "wrench",
+            "variant" : "wrench",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "boltcutters",
+            "variant" : "boltcutters",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "morningstar",
+            "variant" : "morningstar",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "mace",
+            "variant" : "mace",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "halligan",
+            "variant" : "halligan",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "zweihander",
+            "variant" : "zweihander",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "zweifire_off",
+            "variant" : "zweifire_off",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "zweifire_on",
+            "variant" : "zweifire_on",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "ax",
+            "variant" : "ax",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "fire_ax",
+            "variant" : "fire_ax",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "battleaxe",
+            "variant" : "battleaxe",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "battletorch",
+            "variant" : "battletorch",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "battletorch_lit",
+            "variant" : "battletorch_lit",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden_fire.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "scythe_war",
+            "variant" : "scythe_war",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "shock_staff",
+            "variant" : "shock_staff",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack_electric.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diamond_zweihander",
+            "variant" : "diamond_zweihander",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack_diamond.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "knife_combat",
+            "variant" : "knife_combat",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "screwdriver",
+            "variant" : "screwdriver",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "sword_nail",
+            "variant" : "sword_nail",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "sword_wood",
+            "variant" : "sword_wood",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "sword_crude",
+            "variant" : "sword_crude",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "sword_forged",
+            "variant" : "sword_forged",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "nailboard",
+            "variant" : "nailboard",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "nailbat",
+            "variant" : "nailbat",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "bwirebat",
+            "variant" : "bwirebat",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "bowling_axe",
+            "variant" : "bowling_axe",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "pipe",
+            "variant" : "pipe",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "bat",
+            "variant" : "bat",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "bat_metal",
+            "variant" : "bat_metal",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "spear_wood",
+            "variant" : "spear_wood",
             "volume" : 85,
             "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "spear_forked",
+            "variant" : "spear_forked",
             "volume" : 85,
             "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "spear_steel",
+            "variant" : "spear_steel",
             "volume" : 85,
             "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "spear_survivor",
+            "variant" : "spear_survivor",
             "volume" : 85,
             "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "baton-extended",
+            "variant" : "baton-extended",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "hockey_stick",
+            "variant" : "hockey_stick",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "pickaxe",
+            "variant" : "pickaxe",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "tonfa",
+            "variant" : "tonfa",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "tonfa_wood",
+            "variant" : "tonfa_wood",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "PR24-extended",
+            "variant" : "PR24-extended",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "glass_macuahuitl",
+            "variant" : "glass_macuahuitl",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "hammer",
+            "variant" : "hammer",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "crowbar",
+            "variant" : "crowbar",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "primitive_hammer",
+            "variant" : "primitive_hammer",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "primitive_adze",
+            "variant" : "primitive_adze",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "e-tool",
+            "variant" : "e-tool",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "creepy_doll",
+            "variant" : "creepy_doll",
             "volume" : 85,
             "file" : "melee/small_misc/weapon_doll.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "horn_bicycle",
+            "variant" : "horn_bicycle",
             "volume" : 85,
             "file" : "melee/small_misc/weapon_horn.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "primitive_shovel",
+            "variant" : "primitive_shovel",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "primitive_knife",
+            "variant" : "primitive_knife",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "makeshift_crowbar",
+            "variant" : "makeshift_crowbar",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "shovel",
+            "variant" : "shovel",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "tanto",
+            "variant" : "tanto",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "makeshift_knife",
+            "variant" : "makeshift_knife",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "kris",
+            "variant" : "kris",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "spear_knife",
+            "variant" : "spear_knife",
             "volume" : 85,
             "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "rapier",
+            "variant" : "rapier",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "pike",
+            "variant" : "pike",
             "volume" : 85,
             "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "makeshift_machete",
+            "variant" : "makeshift_machete",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "shishkebab_off",
+            "variant" : "shishkebab_off",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "shishkebab_on",
+            "variant" : "shishkebab_on",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack_fire.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "makeshift_halberd",
+            "variant" : "makeshift_halberd",
             "volume" : 85,
             "file" : "melee/big_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "knife_trench",
+            "variant" : "knife_trench",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "switchblade",
+            "variant" : "switchblade",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "airhorn",
+            "variant" : "airhorn",
             "volume" : 85,
             "file" : "melee/small_misc/weapon_airhorn.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "cow_bell",
+            "variant" : "cow_bell",
             "volume" : 85,
             "file" : "melee/small_misc/weapon_cowbell.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "knife_hunting",
+            "variant" : "knife_hunting",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "knife_rambo",
+            "variant" : "knife_rambo",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "knife_rm42",
+            "variant" : "knife_rm42",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "scythe",
+            "variant" : "scythe",
             "volume" : 85,
             "file" : "melee/big_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "sickle",
+            "variant" : "sickle",
             "volume" : 85,
             "file" : "melee/small_cutting/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "diveknife",
+            "variant" : "diveknife",
             "volume" : 85,
             "file" : "melee/small_stabbing/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "lobotomizer",
+            "variant" : "lobotomizer",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "vibrator",
+            "variant" : "vibrator",
             "volume" : 85,
             "file" : "melee/small_misc/weapon_vibrator.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "shocktonfa_off",
+            "variant" : "shocktonfa_off",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "shocktonfa_on",
+            "variant" : "shocktonfa_on",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack_wooden_electric.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "chainsaw_off",
+            "variant" : "chainsaw_off",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "chainsaw_on",
+            "variant" : "chainsaw_on",
             "volume" : 85,
             "file" : "melee/big_misc/weapon_chainsaw.ogg"
         },
         {
             "id" : "melee_hit",
-						"variant" : "combatsaw_off",
+            "variant" : "combatsaw_off",
             "volume" : 85,
             "file" : "melee/small_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "combatsaw_on",
+            "variant" : "combatsaw_on",
             "volume" : 85,
             "file" : "melee/big_misc/weapon_chainsaw.ogg"
         },
         {
             "id" : "melee_hit",
-						"variant" : "cslajatang_off",
+            "variant" : "cslajatang_off",
             "volume" : 85,
             "file" : "melee/big_bash/weapon_attack.wav"
         },
         {
             "id" : "melee_hit",
-						"variant" : "cslajatang_on",
+            "variant" : "cslajatang_on",
             "volume" : 85,
             "file" : "melee/big_misc/weapon_chainsaw.ogg"
         },
@@ -2769,109 +2769,109 @@
         },
         {
             "id" : "open_door",
-						"variant" : "t_door_metal_c",
+            "variant" : "t_door_metal_c",
             "volume" : 75,
             "file" : "env/mdooropen1.ogg"
         },
         {
             "id" : "close_door",
-						"variant" : "t_door_metal_o",
+            "variant" : "t_door_metal_o",
             "volume" : 75,
             "file" : "env/mdoorclose1.ogg"
         },
         {
             "id" : "open_door",
-						"variant" : "t_window_domestic",
+            "variant" : "t_window_domestic",
             "volume" : 85,
             "file" : "env/windowopen1.ogg"
         },
         {
             "id" : "close_door",
-						"variant" : "t_window_open",
+            "variant" : "t_window_open",
             "volume" : 85,
             "file" : "env/windowclose1.ogg"
         },
         {
             "id" : "close_door",
-						"variant" : "t_window_domestic",
+            "variant" : "t_window_domestic",
             "volume" : 75,
             "file" : "env/curtainclose1.ogg"
         },
         {
             "id" : "open_door",
-						"variant" : "t_curtains",
+            "variant" : "t_curtains",
             "volume" : 75,
             "file" : "env/curtainclose1.ogg"
         },
         {
             "id" : "open_door",
-						"variant" : "f_canvas_door",
+            "variant" : "f_canvas_door",
             "volume" : 100,
             "file" : "env/tent_door_open.wav"
         },
         {
             "id" : "close_door",
-						"variant" : "f_canvas_door_o",
+            "variant" : "f_canvas_door_o",
             "volume" : 100,
             "file" : "env/tent_door_close.wav"
         },
         {
             "id" : "open_door",
-						"variant" : "f_large_canvas_door",
+            "variant" : "f_large_canvas_door",
             "volume" : 100,
             "file" : "env/tent_door_open.wav"
         },
         {
             "id" : "close_door",
-						"variant" : "f_large_canvas_door_o",
+            "variant" : "f_large_canvas_door_o",
             "volume" : 100,
             "file" : "env/tent_door_close.wav"
         },
         {
             "id" : "open_door",
-						"variant" : "f_skin_door",
+            "variant" : "f_skin_door",
             "volume" : 100,
             "file" : "env/tent_door_open.wav"
         },
         {
             "id" : "close_door",
-						"variant" : "f_skin_door_o",
+            "variant" : "f_skin_door_o",
             "volume" : 100,
             "file" : "env/tent_door_close.wav"
         },
         {
             "id" : "open_door",
-						"variant" : "t_chaingate_c",
+            "variant" : "t_chaingate_c",
             "volume" : 100,
             "file" : "env/metal_fence_open.wav"
         },
         {
             "id" : "close_door",
-						"variant" : "t_chaingate_o",
+            "variant" : "t_chaingate_o",
             "volume" : 100,
             "file" : "env/metal_fence_close.wav"
         },
         {
             "id" : "open_door",
-						"variant" : "t_door_bar_c",
+            "variant" : "t_door_bar_c",
             "volume" : 100,
             "file" : "env/portcullis_open.wav"
         },
         {
             "id" : "close_door",
-						"variant" : "t_door_bar_o",
+            "variant" : "t_door_bar_o",
             "volume" : 100,
             "file" : "env/portcullis_close.wav"
         },
         {
             "id" : "open_door",
-						"variant" : "t_door_glass_c",
+            "variant" : "t_door_glass_c",
             "volume" : 100,
             "file" : "env/sliding_door_open.wav"
         },
         {
             "id" : "close_door",
-						"variant" : "t_door_glass_o",
+            "variant" : "t_door_glass_o",
             "volume" : 100,
             "file" : "env/sliding_door_close.wav"
         },
@@ -2882,271 +2882,271 @@
         },
         {
             "id" : "smash",
-						"variant" : "wall",
+            "variant" : "wall",
             "volume" : 85,
             "file" : "env/smashwall1.ogg"
         },
         {
             "id" : "smash",
-						"variant" : "door",
+            "variant" : "door",
             "volume" : 90,
             "file" : "env/smashdoor1.ogg"
         },
         {
             "id" : "smash",
-						"variant" : "door_boarded",
+            "variant" : "door_boarded",
             "volume" : 90,
             "file" : "env/smashdoor1.ogg"
         },
         {
             "id" : "smash",
-						"variant" : "glass",
+            "variant" : "glass",
             "volume" : 75,
             "file" : "env/smashglass1.ogg"
         },
         {
             "id" : "smash_success",
-						"variant" : "hit_vehicle",
+            "variant" : "hit_vehicle",
             "volume" : 100,
             "file" : "env/smash_vehicle.wav"
         },
         {
             "id" : "smash_success",
-						"variant" : "smash_glass_contents",
+            "variant" : "smash_glass_contents",
             "volume" : 50,
             "file" : "env/smash_glass.wav"
         },
-				{
+        {
             "id" : "smash_success",
-						"variant" : "t_curtains",
-            "volume" : 100,
-            "file" : "env/smash_glass.wav"
-        },
-				{
-            "id" : "smash_fail",
-						"variant" : "t_curtains",
-            "volume" : 100,
-            "file" : "env/hit_glass.wav"
-        },
-				{
-            "id" : "smash_success",
-						"variant" : "t_window_domestic",
-            "volume" : 100,
-            "file" : "env/smash_glass.wav"
-        },
-				{
-            "id" : "smash_fail",
-						"variant" : "t_window_domestic",
-            "volume" : 100,
-            "file" : "env/hit_glass.wav"
-        },
-				{
-            "id" : "smash_success",
-						"variant" : "t_window_open",
+            "variant" : "t_curtains",
             "volume" : 100,
             "file" : "env/smash_glass.wav"
         },
         {
             "id" : "smash_fail",
-						"variant" : "t_window_open",
+            "variant" : "t_curtains",
             "volume" : 100,
             "file" : "env/hit_glass.wav"
         },
         {
             "id" : "smash_success",
-						"variant" : "t_window_frame",
+            "variant" : "t_window_domestic",
+            "volume" : 100,
+            "file" : "env/smash_glass.wav"
+        },
+        {
+            "id" : "smash_fail",
+            "variant" : "t_window_domestic",
+            "volume" : 100,
+            "file" : "env/hit_glass.wav"
+        },
+        {
+            "id" : "smash_success",
+            "variant" : "t_window_open",
+            "volume" : 100,
+            "file" : "env/smash_glass.wav"
+        },
+        {
+            "id" : "smash_fail",
+            "variant" : "t_window_open",
+            "volume" : 100,
+            "file" : "env/hit_glass.wav"
+        },
+        {
+            "id" : "smash_success",
+            "variant" : "t_window_frame",
             "volume" : 100,
             "file" : "env/smash_glass_fragments.wav"
         },
         {
             "id" : "smash_fail",
-						"variant" : "t_window_frame",
+            "variant" : "t_window_frame",
             "volume" : 100,
             "file" : "env/smash_glass_fragments.wav"
         },
-				{
+        {
             "id" : "smash_fail",
-						"variant" : "f_locker",
+            "variant" : "f_locker",
             "volume" : 80,
             "file" : "env/hit_door_metal.wav"
         },
-				{
+        {
             "id" : "smash_success",
-						"variant" : "f_locker",
+            "variant" : "f_locker",
             "volume" : 100,
             "file" : "env/smash_door_metal.wav"
         },
         {
             "id" : "smash_fail",
-						"variant" : "t_door_c",
+            "variant" : "t_door_c",
             "volume" : 100,
             "file" : "env/hit_door_wooden.wav"
         },
-				{
+        {
             "id" : "smash_success",
-						"variant" : "t_door_c",
+            "variant" : "t_door_c",
             "volume" : 100,
             "file" : "env/smash_door_wooden.wav"
         },
         {
             "id" : "smash_fail",
-						"variant" : "t_door_b",
+            "variant" : "t_door_b",
             "volume" : 100,
             "file" : "env/hit_door_wooden.wav"
         },
-				{
+        {
             "id" : "smash_success",
-						"variant" : "t_door_b",
+            "variant" : "t_door_b",
             "volume" : 100,
             "file" : "env/smash_door_wooden.wav"
         },
         {
             "id" : "smash_fail",
-						"variant" : "f_bench",
+            "variant" : "f_bench",
             "volume" : 100,
             "file" : "env/hit_door_wooden.wav"
         },
-				{
+        {
             "id" : "smash_success",
-						"variant" : "f_bench",
+            "variant" : "f_bench",
             "volume" : 100,
             "file" : "env/smash_door_wooden.wav"
         },
         {
             "id" : "smash_fail",
-						"variant" : "f_counter",
+            "variant" : "f_counter",
             "volume" : 100,
             "file" : "env/hit_door_wooden.wav"
         },
-				{
+        {
             "id" : "smash_success",
-						"variant" : "f_counter",
+            "variant" : "f_counter",
             "volume" : 100,
             "file" : "env/smash_door_wooden.wav"
         },
         {
             "id" : "smash_fail",
-						"variant" : "t_concrete_wall",
+            "variant" : "t_concrete_wall",
             "volume" : 70,
             "file" : "env/hit_rock.wav"
         },
-				{
+        {
             "id" : "smash_success",
-						"variant" : "t_concrete_wall",
+            "variant" : "t_concrete_wall",
             "volume" : 100,
             "file" : "env/smash_rock.wav"
         },
         {
             "id" : "smash_fail",
-						"variant" : "t_wall",
+            "variant" : "t_wall",
             "volume" : 70,
             "file" : "env/hit_rock.wav"
         },
-				{
+        {
             "id" : "smash_success",
-						"variant" : "t_wall",
+            "variant" : "t_wall",
             "volume" : 100,
             "file" : "env/smash_rock.wav"
         },
         {
             "id" : "explosion",
-						"variant" : "default",
+            "variant" : "default",
             "volume" : 85,
             "file" : "env/explosion_small.wav"
         },
         {
             "id" : "explosion",
-						"variant" : "small",
+            "variant" : "small",
             "volume" : 85,
             "file" : "env/explosion_small.wav"
         },
         {
             "id" : "explosion",
-						"variant" : "huge",
+            "variant" : "huge",
             "volume" : 100,
             "file" : "env/explosion_large.wav"
         },
         {
             "id" : "environment",
-						"variant" : "thunder_far",
+            "variant" : "thunder_far",
             "volume" : 75,
             "file" : "env/thunder_far.wav"
         },
         {
             "id" : "environment",
-						"variant" : "thunder_near",
+            "variant" : "thunder_near",
             "volume" : 95,
             "file" : "env/thunder_near.wav"
         },
         {
             "id" : "environment",
-						"variant" : "WEATHER_FLURRIES",
+            "variant" : "WEATHER_FLURRIES",
             "volume" : 100,
             "file" : "env/flurries.wav"
         },
         {
             "id" : "environment",
-						"variant" : "WEATHER_RAINY",
+            "variant" : "WEATHER_RAINY",
             "volume" : 80,
             "file" : "env/rain.wav"
         },
         {
             "id" : "environment",
-						"variant" : "indoors_rain",
+            "variant" : "indoors_rain",
             "volume" : 90,
             "file" : "env/indoors_rain.wav"
         },
         {
             "id" : "environment",
-						"variant" : "WEATHER_SNOW",
+            "variant" : "WEATHER_SNOW",
             "volume" : 100,
             "file" : "env/snow.wav"
         },
         {
             "id" : "environment",
-						"variant" : "WEATHER_THUNDER",
+            "variant" : "WEATHER_THUNDER",
             "volume" : 90,
             "file" : "env/thunderstorm.wav"
         },
         {
             "id" : "environment",
-						"variant" : "WEATHER_DRIZZLE",
+            "variant" : "WEATHER_DRIZZLE",
             "volume" : 70,
             "file" : "env/drizzle.wav"
         },
         {
             "id" : "environment",
-						"variant" : "daytime",
+            "variant" : "daytime",
             "volume" : 85,
             "file" : "env/daytime.wav"
         },
         {
             "id" : "environment",
-						"variant" : "nighttime",
+            "variant" : "nighttime",
             "volume" : 85,
             "file" : "env/nighttime.wav"
         },
                 {
             "id" : "environment",
-						"variant" : "indoors",
+            "variant" : "indoors",
             "volume" : 100,
             "file" : "env/indoors.wav"
         },
         {
             "id" : "environment",
-						"variant" : "underground",
+            "variant" : "underground",
             "volume" : 100,
             "file" : "env/underground.wav"
         },
         {
             "id" : "environment",
-						"variant" : "alarm",
+            "variant" : "alarm",
             "volume" : 100,
             "file" : "env/security_alarm.wav"
         },
         {
             "id" : "fire_gun",
-						"variant" : "bio_lightning_tail",
+            "variant" : "bio_lightning_tail",
             "volume" : 85,
             "file" : "guns/energy_generic/weapon_fire_lightning_tail.wav"
         }
