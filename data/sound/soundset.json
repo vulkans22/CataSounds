@@ -984,6 +984,42 @@
             "file" : "guns/assaultrifle_generic/weapon_reload.wav"
         },
         {
+            "id" : "fire_gun_1",
+            "volume" : 60,
+            "variant" : "h&k416a5",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556_1.wav"
+        },
+        {
+            "id" : "fire_gun_2",
+            "volume" : 60,
+            "variant" : "h&k416a5",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556_2.wav"
+        },
+        {
+            "id" : "fire_gun_3",
+            "volume" : 60,
+            "variant" : "h&k416a5",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556_3.wav"
+        },
+        {
+            "id" : "fire_gun_4",
+            "volume" : 60,
+            "variant" : "h&k416a5",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556_4.wav"
+        },
+        {
+            "id" : "fire_gun_5",
+            "volume" : 60,
+            "variant" : "h&k416a5",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556_5.wav"
+        },
+        {
+            "id" : "fire_gun_suppressed",
+            "volume" : 40,
+            "variant" : "h&k416a5",
+            "file" : "guns/assaultrifle_generic/weapon_fire_556_sd.wav"
+        },
+        {
             "id" : "fire_gun",
             "volume" : 90,
             "variant" : "l_dsr_223",
@@ -1579,13 +1615,43 @@
         },
         {
             "id" : "fire_gun",
-            "volume" : 90,
+            "volume" : 100,
+            "variant" : "rm120c",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_20x66.wav"
+        },
+        {
+            "id" : "fire_gun_1",
+            "volume" : 100,
+            "variant" : "rm120c",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_20x66.wav"
+        },
+        {
+            "id" : "fire_gun_2",
+            "volume" : 100,
+            "variant" : "rm120c",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_20x66.wav"
+        },
+        {
+            "id" : "fire_gun_3",
+            "volume" : 100,
+            "variant" : "rm120c",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_20x66.wav"
+        },
+        {
+            "id" : "fire_gun_4",
+            "volume" : 100,
+            "variant" : "rm120c",
+            "file" : "guns/pumpshotgun_generic/weapon_fire_20x66.wav"
+        },
+        {
+            "id" : "fire_gun_5",
+            "volume" : 100,
             "variant" : "rm120c",
             "file" : "guns/pumpshotgun_generic/weapon_fire_20x66.wav"
         },
         {
             "id" : "reload",
-            "volume" : 90,
+            "volume" : 70,
             "variant" : "rm120c",
             "file" : "guns/pumpshotgun_generic/weapon_reload.wav"
         },
@@ -2062,6 +2128,30 @@
             "volume" : 80,
             "variant" : "reflexrecurvebow",
             "file" : "guns/archery_generic/weapon_fire_arrow.wav"
+        },
+        {
+            "id" : "fire_gun_distant",
+            "volume" : 100,
+            "variant" : "rifle",
+            "file" : "guns/assaultrifle_generic/weapon_fire_assaultrifle_distant.wav"
+        },
+        {
+            "id" : "fire_gun_distant",
+            "volume" : 100,
+            "variant" : "smg",
+            "file" : "guns/smg_generic/weapon_fire_smg_distant.wav"
+        },
+        {
+            "id" : "fire_gun_distant",
+            "volume" : 100,
+            "variant" : "pistol",
+            "file" : "guns/pistol_generic/weapon_fire_pistol_distant.wav"
+        },
+        {
+            "id" : "fire_gun_distant",
+            "volume" : 100,
+            "variant" : "shotgun",
+            "file" : "guns/autoshotgun_generic/weapon_fire_shotgun_distant.wav"
         },
         {
             "id" : "melee_hit",
@@ -2748,14 +2838,39 @@
         },
         {
             "id" : "footstep",
+            "variant" : "variant1",
             "volume" : 80,
-            "file" : "env/step1.ogg"
+            "file" : "env/walk_tarmac1.wav"
         },
         {
             "id" : "footstep",
-            "variant" : "default",
+            "variant" : "variant2",
             "volume" : 80,
-            "file" : "env/step1.ogg"
+            "file" : "env/walk_tarmac2.wav"
+        },
+        {
+            "id" : "footstep",
+            "variant" : "variant3",
+            "volume" : 80,
+            "file" : "env/walk_tarmac3.wav"
+        },
+        {
+            "id" : "footstep",
+            "variant" : "variant4",
+            "volume" : 80,
+            "file" : "env/walk_tarmac4.wav"
+        },
+        {
+            "id" : "footstep",
+            "variant" : "variant5",
+            "volume" : 80,
+            "file" : "env/walk_tarmac5.wav"
+        },
+        {
+            "id" : "footstep",
+            "variant" : "variant6",
+            "volume" : 80,
+            "file" : "env/walk_tarmac6.wav"
         },
         {
             "id" : "open_door",
@@ -2905,6 +3020,12 @@
             "file" : "env/smashglass1.ogg"
         },
         {
+            "id" : "smash",
+						"variant" : "swing",
+            "volume" : 35,
+            "file" : "env/bash_swing.wav"
+        },
+        {
             "id" : "smash_success",
 						"variant" : "hit_vehicle",
             "volume" : 100,
@@ -3027,25 +3148,25 @@
         {
             "id" : "smash_fail",
 						"variant" : "t_concrete_wall",
-            "volume" : 70,
+            "volume" : 30,
             "file" : "env/hit_rock.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "t_concrete_wall",
-            "volume" : 100,
+            "volume" : 30,
             "file" : "env/smash_rock.wav"
         },
         {
             "id" : "smash_fail",
 						"variant" : "t_wall",
-            "volume" : 70,
+            "volume" : 30,
             "file" : "env/hit_rock.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "t_wall",
-            "volume" : 100,
+            "volume" : 30,
             "file" : "env/smash_rock.wav"
         },
         {
@@ -3143,6 +3264,120 @@
 						"variant" : "alarm",
             "volume" : 100,
             "file" : "env/security_alarm.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "deafness_shock",
+            "volume" : 100,
+            "file" : "env/deafness_shock.wav"
+        },
+				{
+            "id" : "environment",
+						"variant" : "deafness_tone",
+            "volume" : 100,
+            "file" : "env/deafness_tone.wav"
+        },
+        {
+            "id" : "brass_1",
+						"variant" : "default",
+            "volume" : 100,
+            "file" : "guns/misc_generic/brass_falling_1.wav"
+        },
+        {
+            "id" : "brass_2",
+						"variant" : "default",
+            "volume" : 100,
+            "file" : "guns/misc_generic/brass_falling_2.wav"
+        },
+        {
+            "id" : "brass_3",
+						"variant" : "default",
+            "volume" : 100,
+            "file" : "guns/misc_generic/brass_falling_3.wav"
+        },
+        {
+            "id" : "brass_4",
+						"variant" : "default",
+            "volume" : 100,
+            "file" : "guns/misc_generic/brass_falling_4.wav"
+        },
+        {
+            "id" : "hit_flesh_1",
+						"variant" : "default",
+            "volume" : 20,
+            "file" : "guns/misc_generic/hit_flesh_1.wav"
+        },
+        {
+            "id" : "hit_flesh_2",
+						"variant" : "default",
+            "volume" : 20,
+            "file" : "guns/misc_generic/hit_flesh_2.wav"
+        },
+        {
+            "id" : "hit_flesh_3",
+						"variant" : "default",
+            "volume" : 20,
+            "file" : "guns/misc_generic/hit_flesh_3.wav"
+        },
+        {
+            "id" : "hit_wall_1",
+						"variant" : "default",
+            "volume" : 40,
+            "file" : "guns/misc_generic/hit_wall_1.wav"
+        },
+        {
+            "id" : "hit_wall_2",
+						"variant" : "default",
+            "volume" : 40,
+            "file" : "guns/misc_generic/hit_wall_2.wav"
+        },
+        {
+            "id" : "hit_wall_3",
+						"variant" : "default",
+            "volume" : 40,
+            "file" : "guns/misc_generic/hit_wall_3.wav"
+        },
+        {
+            "id" : "hit_metal_1",
+						"variant" : "default",
+            "volume" : 30,
+            "file" : "guns/misc_generic/hit_metal_1.wav"
+        },
+        {
+            "id" : "hit_metal_2",
+						"variant" : "default",
+            "volume" : 30,
+            "file" : "guns/misc_generic/hit_metal_2.wav"
+        },
+        {
+            "id" : "hit_metal_3",
+						"variant" : "default",
+            "volume" : 30,
+            "file" : "guns/misc_generic/hit_metal_3.wav"
+        },
+        {
+            "id" : "zombie_death_1",
+						"variant" : "default",
+            "volume" : 40,
+            "file" : "monster/zombie_death_1.wav"
+        },
+        {
+            "id" : "zombie_death_2",
+						"variant" : "default",
+            "volume" : 40,
+            "file" : "monster/zombie_death_2.wav"
+        },
+        {
+            "id" : "zombie_death_3",
+						"variant" : "default",
+            "volume" : 40,
+            "file" : "monster/zombie_death_3.wav"
+        },
+				{
+            "id" : "zombie_death_4",
+						"variant" : "default",
+            "volume" : 40,
+            "file" : "monster/zombie_death_4.wav"
         },
         {
             "id" : "fire_gun",

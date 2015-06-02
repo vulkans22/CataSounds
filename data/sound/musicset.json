@@ -1,5 +1,6 @@
 {
-    "playlists" : [
+    "playlists" :
+    	[
         {
             "id" : "title",
             "shuffle" : true,
