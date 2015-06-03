@@ -3,7 +3,7 @@
         {
             "id" : "menu_move",
             "volume" : 100,
-            "file" : "menu/menu_selection_click.ogg"
+            "file" : "menu/menu_selection_click1.ogg"
         },
         {
             "id" : "fire_gun",
@@ -982,36 +982,6 @@
             "volume" : 90,
             "variant" : "h&k416a5",
             "file" : "guns/assaultrifle_generic/weapon_reload.wav"
-        },
-        {
-            "id" : "fire_gun_1",
-            "volume" : 60,
-            "variant" : "h&k416a5",
-            "file" : "guns/assaultrifle_generic/weapon_fire_556_1.wav"
-        },
-        {
-            "id" : "fire_gun_2",
-            "volume" : 60,
-            "variant" : "h&k416a5",
-            "file" : "guns/assaultrifle_generic/weapon_fire_556_2.wav"
-        },
-        {
-            "id" : "fire_gun_3",
-            "volume" : 60,
-            "variant" : "h&k416a5",
-            "file" : "guns/assaultrifle_generic/weapon_fire_556_3.wav"
-        },
-        {
-            "id" : "fire_gun_4",
-            "volume" : 60,
-            "variant" : "h&k416a5",
-            "file" : "guns/assaultrifle_generic/weapon_fire_556_4.wav"
-        },
-        {
-            "id" : "fire_gun_5",
-            "volume" : 60,
-            "variant" : "h&k416a5",
-            "file" : "guns/assaultrifle_generic/weapon_fire_556_5.wav"
         },
         {
             "id" : "fire_gun_suppressed",
@@ -2837,445 +2807,661 @@
             "file" : "melee/big_misc/weapon_chainsaw.ogg"
         },
         {
-            "id" : "footstep",
-            "variant" : "variant1",
+            "id" : "walk_grass_1",
+            "variant" : "default",
             "volume" : 80,
-            "file" : "env/walk_tarmac1.wav"
+            "file" : "env/walk/walk_grass1.wav"
         },
         {
-            "id" : "footstep",
-            "variant" : "variant2",
+            "id" : "walk_grass_2",
+            "variant" : "default",
             "volume" : 80,
-            "file" : "env/walk_tarmac2.wav"
+            "file" : "env/walk/walk_grass2.wav"
         },
         {
-            "id" : "footstep",
-            "variant" : "variant3",
+            "id" : "walk_grass_3",
+            "variant" : "default",
             "volume" : 80,
-            "file" : "env/walk_tarmac3.wav"
+            "file" : "env/walk/walk_grass3.wav"
         },
         {
-            "id" : "footstep",
-            "variant" : "variant4",
+            "id" : "walk_grass_4",
+            "variant" : "default",
             "volume" : 80,
-            "file" : "env/walk_tarmac4.wav"
+            "file" : "env/walk/walk_grass4.wav"
         },
         {
-            "id" : "footstep",
-            "variant" : "variant5",
+            "id" : "walk_grass_5",
+            "variant" : "default",
             "volume" : 80,
-            "file" : "env/walk_tarmac5.wav"
+            "file" : "env/walk/walk_grass5.wav"
         },
         {
-            "id" : "footstep",
-            "variant" : "variant6",
+            "id" : "walk_grass_6",
+            "variant" : "default",
             "volume" : 80,
-            "file" : "env/walk_tarmac6.wav"
+            "file" : "env/walk/walk_grass6.wav"
+        },
+        {
+            "id" : "walk_dirt_1",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_dirt1.wav"
+        },
+        {
+            "id" : "walk_dirt_2",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_dirt2.wav"
+        },
+        {
+            "id" : "walk_dirt_3",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_dirt3.wav"
+        },
+        {
+            "id" : "walk_dirt_4",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_dirt4.wav"
+        },
+        {
+            "id" : "walk_dirt_5",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_dirt5.wav"
+        },
+        {
+            "id" : "walk_dirt_6",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_dirt6.wav"
+        },
+        {
+            "id" : "walk_metal_1",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_metal1.wav"
+        },
+        {
+            "id" : "walk_metal_2",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_metal2.wav"
+        },
+        {
+            "id" : "walk_metal_3",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_metal3.wav"
+        },
+        {
+            "id" : "walk_metal_4",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_metal4.wav"
+        },
+        {
+            "id" : "walk_metal_5",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_metal5.wav"
+        },
+        {
+            "id" : "walk_metal_6",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_metal6.wav"
+        },
+        {
+            "id" : "walk_water_1",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_water1.wav"
+        },
+        {
+            "id" : "walk_water_2",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_water2.wav"
+        },
+        {
+            "id" : "walk_water_3",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_water3.wav"
+        },
+        {
+            "id" : "walk_water_4",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_water4.wav"
+        },
+        {
+            "id" : "walk_water_5",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_water5.wav"
+        },
+        {
+            "id" : "walk_water_6",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_water6.wav"
+        },
+        {
+            "id" : "walk_tarmac_1",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_tarmac1.wav"
+        },
+        {
+            "id" : "walk_tarmac_2",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_tarmac2.wav"
+        },
+        {
+            "id" : "walk_tarmac_3",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_tarmac3.wav"
+        },
+        {
+            "id" : "walk_tarmac_4",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_tarmac4.wav"
+        },
+        {
+            "id" : "walk_tarmac_5",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_tarmac5.wav"
+        },
+        {
+            "id" : "walk_tarmac_6",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_tarmac6.wav"
+        },
+        {
+            "id" : "walk_barefoot_1",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_barefoot1.wav"
+        },
+        {
+            "id" : "walk_barefoot_2",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_barefoot2.wav"
+        },
+        {
+            "id" : "walk_barefoot_3",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_barefoot3.wav"
+        },
+        {
+            "id" : "walk_barefoot_4",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_barefoot4.wav"
+        },
+        {
+            "id" : "walk_barefoot_5",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_barefoot5.wav"
+        },
+        {
+            "id" : "walk_barefoot_6",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/walk_barefoot6.wav"
+        },
+        {
+            "id" : "clear_obstacle_1",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/clear_obstacle1.wav"
+        },
+        {
+            "id" : "clear_obstacle_2",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/clear_obstacle2.wav"
+        },
+        {
+            "id" : "clear_obstacle_3",
+            "variant" : "default",
+            "volume" : 80,
+            "file" : "env/walk/clear_obstacle3.wav"
         },
         {
             "id" : "open_door",
             "volume" : 95,
-            "file" : "env/dooropen1.ogg"
+            "file" : "env/open_close/dooropen1.ogg"
         },
         {
             "id" : "close_door",
             "volume" : 95,
-            "file" : "env/doorclose1.ogg"
+            "file" : "env/open_close/doorclose1.ogg"
         },
         {
             "id" : "open_door",
 						"variant" : "t_door_metal_c",
             "volume" : 75,
-            "file" : "env/mdooropen1.ogg"
+            "file" : "env/open_close/mdooropen1.ogg"
         },
         {
             "id" : "close_door",
 						"variant" : "t_door_metal_o",
             "volume" : 75,
-            "file" : "env/mdoorclose1.ogg"
+            "file" : "env/open_close/mdoorclose1.ogg"
         },
         {
             "id" : "open_door",
 						"variant" : "t_window_domestic",
             "volume" : 85,
-            "file" : "env/windowopen1.ogg"
+            "file" : "env/open_close/windowopen1.ogg"
         },
         {
             "id" : "close_door",
 						"variant" : "t_window_open",
             "volume" : 85,
-            "file" : "env/windowclose1.ogg"
+            "file" : "env/open_close/windowclose1.ogg"
         },
         {
             "id" : "close_door",
 						"variant" : "t_window_domestic",
             "volume" : 75,
-            "file" : "env/curtainclose1.ogg"
+            "file" : "env/open_close/curtainclose1.ogg"
         },
         {
             "id" : "open_door",
 						"variant" : "t_curtains",
             "volume" : 75,
-            "file" : "env/curtainclose1.ogg"
+            "file" : "env/open_close/curtainclose1.ogg"
         },
         {
             "id" : "open_door",
 						"variant" : "f_canvas_door",
             "volume" : 100,
-            "file" : "env/tent_door_open.wav"
+            "file" : "env/open_close/tent_door_open.wav"
         },
         {
             "id" : "close_door",
 						"variant" : "f_canvas_door_o",
             "volume" : 100,
-            "file" : "env/tent_door_close.wav"
+            "file" : "env/open_close/tent_door_close.wav"
         },
         {
             "id" : "open_door",
 						"variant" : "f_large_canvas_door",
             "volume" : 100,
-            "file" : "env/tent_door_open.wav"
+            "file" : "env/open_close/tent_door_open.wav"
         },
         {
             "id" : "close_door",
 						"variant" : "f_large_canvas_door_o",
             "volume" : 100,
-            "file" : "env/tent_door_close.wav"
+            "file" : "env/open_close/tent_door_close.wav"
         },
         {
             "id" : "open_door",
 						"variant" : "f_skin_door",
             "volume" : 100,
-            "file" : "env/tent_door_open.wav"
+            "file" : "env/open_close/tent_door_open.wav"
         },
         {
             "id" : "close_door",
 						"variant" : "f_skin_door_o",
             "volume" : 100,
-            "file" : "env/tent_door_close.wav"
+            "file" : "env/open_close/tent_door_close.wav"
         },
         {
             "id" : "open_door",
 						"variant" : "t_chaingate_c",
             "volume" : 100,
-            "file" : "env/metal_fence_open.wav"
+            "file" : "env/open_close/metal_fence_open.wav"
         },
         {
             "id" : "close_door",
 						"variant" : "t_chaingate_o",
             "volume" : 100,
-            "file" : "env/metal_fence_close.wav"
+            "file" : "env/open_close/metal_fence_close.wav"
         },
         {
             "id" : "open_door",
 						"variant" : "t_door_bar_c",
             "volume" : 100,
-            "file" : "env/portcullis_open.wav"
+            "file" : "env/open_close/portcullis_open.wav"
         },
         {
             "id" : "close_door",
 						"variant" : "t_door_bar_o",
             "volume" : 100,
-            "file" : "env/portcullis_close.wav"
+            "file" : "env/open_close/portcullis_close.wav"
         },
         {
             "id" : "open_door",
 						"variant" : "t_door_glass_c",
             "volume" : 100,
-            "file" : "env/sliding_door_open.wav"
+            "file" : "env/open_close/sliding_door_open.wav"
         },
         {
             "id" : "close_door",
 						"variant" : "t_door_glass_o",
             "volume" : 100,
-            "file" : "env/sliding_door_close.wav"
+            "file" : "env/open_close/sliding_door_close.wav"
         },
         {
             "id" : "bash",
             "volume" : 55,
-            "file" : "env/bash1.ogg"
+            "file" : "env/smashes/bash1.ogg"
         },
         {
             "id" : "smash",
 						"variant" : "wall",
             "volume" : 85,
-            "file" : "env/smashwall1.ogg"
+            "file" : "env/smashes/smashwall1.ogg"
         },
         {
             "id" : "smash",
 						"variant" : "door",
             "volume" : 90,
-            "file" : "env/smashdoor1.ogg"
+            "file" : "env/smashes/smashdoor1.ogg"
         },
         {
             "id" : "smash",
 						"variant" : "door_boarded",
             "volume" : 90,
-            "file" : "env/smashdoor1.ogg"
+            "file" : "env/smashes/smashdoor1.ogg"
         },
         {
             "id" : "smash",
 						"variant" : "glass",
             "volume" : 75,
-            "file" : "env/smashglass1.ogg"
+            "file" : "env/smashes/smashglass1.ogg"
         },
         {
             "id" : "smash",
 						"variant" : "swing",
             "volume" : 35,
-            "file" : "env/bash_swing.wav"
+            "file" : "env/smashes/bash_swing.wav"
         },
         {
             "id" : "smash_success",
 						"variant" : "hit_vehicle",
             "volume" : 100,
-            "file" : "env/smash_vehicle.wav"
+            "file" : "env/smashes/smash_vehicle.wav"
         },
         {
             "id" : "smash_success",
 						"variant" : "smash_glass_contents",
             "volume" : 50,
-            "file" : "env/smash_glass.wav"
+            "file" : "env/smashes/smash_glass.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "t_curtains",
             "volume" : 100,
-            "file" : "env/smash_glass.wav"
+            "file" : "env/smashes/smash_glass.wav"
         },
 				{
             "id" : "smash_fail",
 						"variant" : "t_curtains",
             "volume" : 100,
-            "file" : "env/hit_glass.wav"
+            "file" : "env/smashes/hit_glass.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "t_window_domestic",
             "volume" : 100,
-            "file" : "env/smash_glass.wav"
+            "file" : "env/smashes/smash_glass.wav"
         },
 				{
             "id" : "smash_fail",
 						"variant" : "t_window_domestic",
             "volume" : 100,
-            "file" : "env/hit_glass.wav"
+            "file" : "env/smashes/hit_glass.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "t_window_open",
             "volume" : 100,
-            "file" : "env/smash_glass.wav"
+            "file" : "env/smashes/smash_glass.wav"
         },
         {
             "id" : "smash_fail",
 						"variant" : "t_window_open",
             "volume" : 100,
-            "file" : "env/hit_glass.wav"
+            "file" : "env/smashes/hit_glass.wav"
         },
         {
             "id" : "smash_success",
 						"variant" : "t_window_frame",
-            "volume" : 100,
-            "file" : "env/smash_glass_fragments.wav"
+            "volume" : 50,
+            "file" : "env/smashes/smash_glass_fragments.wav"
         },
         {
             "id" : "smash_fail",
 						"variant" : "t_window_frame",
-            "volume" : 100,
-            "file" : "env/smash_glass_fragments.wav"
+            "volume" : 50,
+            "file" : "env/smashes/smash_glass_fragments.wav"
         },
 				{
             "id" : "smash_fail",
 						"variant" : "f_locker",
             "volume" : 80,
-            "file" : "env/hit_door_metal.wav"
+            "file" : "env/smashes/hit_door_metal.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "f_locker",
             "volume" : 100,
-            "file" : "env/smash_door_metal.wav"
+            "file" : "env/smashes/smash_door_metal.wav"
         },
         {
             "id" : "smash_fail",
 						"variant" : "t_door_c",
             "volume" : 100,
-            "file" : "env/hit_door_wooden.wav"
+            "file" : "env/smashes/hit_door_wooden.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "t_door_c",
             "volume" : 100,
-            "file" : "env/smash_door_wooden.wav"
+            "file" : "env/smashes/smash_door_wooden.wav"
         },
         {
             "id" : "smash_fail",
 						"variant" : "t_door_b",
             "volume" : 100,
-            "file" : "env/hit_door_wooden.wav"
+            "file" : "env/smashes/hit_door_wooden.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "t_door_b",
             "volume" : 100,
-            "file" : "env/smash_door_wooden.wav"
+            "file" : "env/smashes/smash_door_wooden.wav"
         },
         {
             "id" : "smash_fail",
 						"variant" : "f_bench",
             "volume" : 100,
-            "file" : "env/hit_door_wooden.wav"
+            "file" : "env/smashes/hit_door_wooden.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "f_bench",
             "volume" : 100,
-            "file" : "env/smash_door_wooden.wav"
+            "file" : "env/smashes/smash_door_wooden.wav"
         },
         {
             "id" : "smash_fail",
 						"variant" : "f_counter",
             "volume" : 100,
-            "file" : "env/hit_door_wooden.wav"
+            "file" : "env/smashes/hit_door_wooden.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "f_counter",
             "volume" : 100,
-            "file" : "env/smash_door_wooden.wav"
+            "file" : "env/smashes/smash_door_wooden.wav"
         },
         {
             "id" : "smash_fail",
 						"variant" : "t_concrete_wall",
             "volume" : 30,
-            "file" : "env/hit_rock.wav"
+            "file" : "env/smashes/hit_rock.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "t_concrete_wall",
             "volume" : 30,
-            "file" : "env/smash_rock.wav"
+            "file" : "env/smashes/smash_rock.wav"
         },
         {
             "id" : "smash_fail",
 						"variant" : "t_wall",
             "volume" : 30,
-            "file" : "env/hit_rock.wav"
+            "file" : "env/smashes/hit_rock.wav"
         },
 				{
             "id" : "smash_success",
 						"variant" : "t_wall",
             "volume" : 30,
-            "file" : "env/smash_rock.wav"
+            "file" : "env/smashes/smash_rock.wav"
         },
         {
             "id" : "explosion",
 						"variant" : "default",
             "volume" : 85,
-            "file" : "env/explosion_small.wav"
+            "file" : "env/explosions/explosion_small.wav"
         },
         {
             "id" : "explosion",
 						"variant" : "small",
             "volume" : 85,
-            "file" : "env/explosion_small.wav"
+            "file" : "env/explosions/explosion_small.wav"
         },
         {
             "id" : "explosion",
 						"variant" : "huge",
             "volume" : 100,
-            "file" : "env/explosion_large.wav"
+            "file" : "env/explosions/explosion_large.wav"
         },
         {
             "id" : "environment",
 						"variant" : "thunder_far",
             "volume" : 75,
-            "file" : "env/thunder_far.wav"
+            "file" : "env/ambience_and_weather/thunder_far.wav"
         },
         {
             "id" : "environment",
 						"variant" : "thunder_near",
             "volume" : 95,
-            "file" : "env/thunder_near.wav"
+            "file" : "env/ambience_and_weather/thunder_near.wav"
         },
         {
             "id" : "environment",
 						"variant" : "WEATHER_FLURRIES",
             "volume" : 100,
-            "file" : "env/flurries.wav"
+            "file" : "env/ambience_and_weather/flurries.wav"
         },
         {
             "id" : "environment",
 						"variant" : "WEATHER_RAINY",
             "volume" : 80,
-            "file" : "env/rain.wav"
+            "file" : "env/ambience_and_weather/rain.wav"
         },
         {
             "id" : "environment",
 						"variant" : "indoors_rain",
             "volume" : 90,
-            "file" : "env/indoors_rain.wav"
+            "file" : "env/ambience_and_weather/indoors_rain.wav"
         },
         {
             "id" : "environment",
 						"variant" : "WEATHER_SNOW",
             "volume" : 100,
-            "file" : "env/snow.wav"
+            "file" : "env/ambience_and_weather/snow.wav"
         },
         {
             "id" : "environment",
 						"variant" : "WEATHER_THUNDER",
             "volume" : 90,
-            "file" : "env/thunderstorm.wav"
+            "file" : "env/ambience_and_weather/thunderstorm.wav"
         },
         {
             "id" : "environment",
 						"variant" : "WEATHER_DRIZZLE",
             "volume" : 70,
-            "file" : "env/drizzle.wav"
+            "file" : "env/ambience_and_weather/drizzle.wav"
         },
         {
             "id" : "environment",
 						"variant" : "daytime",
             "volume" : 85,
-            "file" : "env/daytime.wav"
+            "file" : "env/ambience_and_weather/daytime.wav"
         },
         {
             "id" : "environment",
 						"variant" : "nighttime",
             "volume" : 85,
-            "file" : "env/nighttime.wav"
+            "file" : "env/ambience_and_weather/nighttime.wav"
         },
                 {
             "id" : "environment",
 						"variant" : "indoors",
             "volume" : 100,
-            "file" : "env/indoors.wav"
+            "file" : "env/ambience_and_weather/indoors.wav"
         },
         {
             "id" : "environment",
 						"variant" : "underground",
             "volume" : 100,
-            "file" : "env/underground.wav"
+            "file" : "env/ambience_and_weather/underground.wav"
         },
         {
             "id" : "environment",
 						"variant" : "alarm",
             "volume" : 100,
-            "file" : "env/security_alarm.wav"
+            "file" : "env/other/security_alarm.wav"
         },
         {
             "id" : "environment",
 						"variant" : "deafness_shock",
             "volume" : 100,
-            "file" : "env/deafness_shock.wav"
+            "file" : "env/deafness/deafness_shock.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "deafness_tone_start",
+            "volume" : 100,
+            "file" : "env/deafness/deafness_tone_start.wav"
         },
 				{
             "id" : "environment",
-						"variant" : "deafness_tone",
+						"variant" : "deafness_tone_light",
             "volume" : 100,
-            "file" : "env/deafness_tone.wav"
+            "file" : "env/deafness/deafness_tone_light.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "deafness_tone_medium",
+            "volume" : 100,
+            "file" : "env/deafness/deafness_tone_medium.wav"
+        },
+        {
+            "id" : "environment",
+						"variant" : "deafness_tone_heavy",
+            "volume" : 100,
+            "file" : "env/deafness/deafness_tone_heavy.wav"
         },
         {
             "id" : "brass_1",
@@ -3378,6 +3564,36 @@
 						"variant" : "default",
             "volume" : 40,
             "file" : "monster/zombie_death_4.wav"
+        },
+				{
+            "id" : "zombie_gibbed",
+						"variant" : "default",
+            "volume" : 70,
+            "file" : "monster/zombie_gibbed.wav"
+        },
+        {
+            "id" : "danger_low",
+						"variant" : "default",
+            "volume" : 90,
+            "file" : "music/danger_theme/danger_low.wav"
+        },
+        {
+            "id" : "danger_medium",
+						"variant" : "default",
+            "volume" : 90,
+            "file" : "music/danger_theme/danger_medium.wav"
+        },
+        {
+            "id" : "danger_high",
+						"variant" : "default",
+            "volume" : 90,
+            "file" : "music/danger_theme/danger_high.wav"
+        },
+        {
+            "id" : "danger_extreme",
+						"variant" : "default",
+            "volume" : 90,
+            "file" : "music/danger_theme/danger_extreme.wav"
         },
         {
             "id" : "fire_gun",
