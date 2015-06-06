@@ -4215,7 +4215,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "walk_grass",
-        "volume" : 80,
+        "volume" : 50,
         "files" : [
             "env/walk/walk_grass1.wav",
             "env/walk/walk_grass2.wav",
@@ -4229,7 +4229,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "walk_dirt",
-        "volume" : 80,
+        "volume" : 50,
         "files" : [
             "env/walk/walk_dirt1.wav",
             "env/walk/walk_dirt2.wav",
@@ -4243,7 +4243,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "walk_metal",
-        "volume" : 80,
+        "volume" : 50,
         "files" : [
             "env/walk/walk_metal1.wav",
             "env/walk/walk_metal2.wav",
@@ -4257,7 +4257,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "walk_water",
-        "volume" : 80,
+        "volume" : 50,
         "files" : [
             "env/walk/walk_water1.wav",
             "env/walk/walk_water2.wav",
@@ -4271,7 +4271,7 @@
         "type": "sound_effect",
         "id" : "plmove",
         "variant" : "walk_tarmac",
-        "volume" : 100,
+        "volume" : 70,
         "files" : [
             "env/walk/walk_tarmac1.wav",
             "env/walk/walk_tarmac2.wav",
